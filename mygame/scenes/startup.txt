@@ -1,15 +1,6 @@
 *title Deadline
 *author Michael Masonis
 
-*comment =========================
-*comment CONTENT WARNING
-*comment =========================
-
-This story explores mature themes including crime, social conflict, and the consequences of difficult choices. 
-Some routes may include violence or character death.
-
-Player discretion is advised.
-
 *scene_list
   startup
   stats
@@ -222,6 +213,15 @@ Player discretion is advised.
   section205
   section206
   section207
+
+*comment =========================
+*comment CONTENT WARNING
+*comment =========================
+
+This story explores mature themes including crime, social conflict, and the consequences of difficult choices. 
+Some routes may include violence or character death.
+
+Player discretion is advised.
 
 *comment =====================================
 *comment RUN STATE DEFAULTS (reset every replay)
