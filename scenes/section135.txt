@@ -1,0 +1,32 @@
+*comment section135
+
+A moment later, you’re surprised to see Zack follow you out onto the veranda, the music from the dance venue muffled behind him.
+
+"You okay?" he asks.
+
+"Yeah," you say. "I guess."
+
+"That doesn’t sound very convincing," he says.
+
+You exhale, staring out at the darkened gardens lit up by fairy lights. "I just wish I had done things differently."
+
+"What do you mean?" he asks.
+
+"I hurt the feelings of someone I care about because I was selfish," you say. "And now I’m alone at the dance because I was a coward. Maybe I’m just getting what I deserve."
+
+"You’re not alone," Zack says. "You’re with your friends. And don’t forget I’m standing right here. With you."
+
+You blush and look down. "Thank you. It’s more than I deserve."
+
+Zack reaches for your hand. "No," he says firmly, squeezing it. "You deserve so much more."
+
+For several minutes, you stand there in silence, hand in hand, the cool night air wrapping around you while the dance music thumps faintly in the distance.
+
+"It’s time," you say quietly.
+
+Zack smiles down at you. "Let’s go."
+
+*if abbey_gardens
+  *goto_scene section138
+*else
+  *goto_scene section45

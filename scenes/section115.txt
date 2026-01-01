@@ -1,0 +1,13 @@
+*comment section115
+
+“You’re right, Mom,” you say decidedly. “A girl is missing and it’s important to stay safe. In fact, I’ll text you if something comes up.”
+
+Mom looks pleased and says, “Yes, that’s right! Thank you for being so responsible with this.”
+
+You smile back, but firmly decide you definitely are going to have to talk to Zack Jayson. You need to find out what happened and ask him out. “I mean, ask him a few questions,” you correct yourself quickly. Although, you may ask him out, too. After all, you do have a dance to go to. And if it looks like trouble, you’ll text Mom. After all, you promised.
+
+Your mind broods through the rest of dinner.
+
+*set trust_mom +1
+*set promised_text_mom true
+*goto_scene section8

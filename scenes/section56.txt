@@ -1,0 +1,21 @@
+*comment section56
+
+“I’m not a Blah!” you protest.
+
+Toby doesn’t look up from his game. “Really?” he asks unbelievingly. “Because you’re not rich or pretty or popular enough to be a Glitterati. You don’t have enough attitude or conviction to be a Death Eater. You are way too wholesome to be a Delinquent…” Toby looks up briefly with a sardonic grin. “And let’s face it,” he says, “you don’t have the brains or the skills to be on the Geek Squad.”
+
+“Now listen here--” begins Charlie angrily, but you stop him with a hand on his arm.
+
+“It’s okay,” you say stiffly, “I’m not sure the opinions of a sociopathic gamer are worth recording anyway.” You pull Charlie away, “Come on! Let’s find somebody else.”
+
+The two of you turn to interview some of the other members of the Geek Squad, but as you approach them, they all turn away. They’ve seen your interactions with Toby and are demonstrating a surprising sense of group solidarity.
+
+“I guess we’ll just have to do the article without them,” Charlie says with a forlorn sigh.
+
+But you shake your head at your own foolishness. You clearly recall the words Ms. Chase said to you regarding sources. “Never be offended at a source--you need them. Get the interview, and get out. You can be offended after your story is published.”
+
+With a heavy sigh, you leave the lunchroom and head off early to your next class.
+
+*set cool -2
+
+*goto_scene section66

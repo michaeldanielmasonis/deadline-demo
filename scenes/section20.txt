@@ -1,0 +1,15 @@
+*comment section20
+
+Mr. Hudson sighs dramatically and puts his head in his hands. The rest of the class snickers at your response. “Miss Lane,” says your teacher. “You do realize that the Southern States were the ones who endorsed slavery?”
+
+Your face floods with embarrassment. “Er, yeah,” you say lamely, “that’s what I meant.” You give a nervous chuckle. “Damn slave owners! Such racists, am I right? We should have kicked them out of the Union,” you say to the student next to you.
+
+Mr. Hudson looks at you, flabbergasted. “That’s what they wanted!” he nearly shouts. “The Civil War was meant to keep the Union together!”
+
+“Oh,” you say quietly.
+
+The students roll their eyes at you and shake their heads. You spend the rest of the period trying to sink into the floor. When the bell rings, you quickly grab your things and leave.
+
+*set cool -2
+
+*goto_scene section12

@@ -1,0 +1,53 @@
+*comment section103
+
+"That’s interesting," you say. "I wonder what the deal is with that company. They must be desperate to ignore your advice, Mom."
+
+"I think you’re right," your mother says as she helps herself to some mashed potatoes.
+
+An idea suddenly pops into your head. "Hey Abs," you say enthusiastically. "Do you think the student council will let you snoop around the Victoria Gardens and get some intel?"
+
+"Wait? What do you mean? Like spying?" says Abbey enthusiastically, her brown eyes sparkling. "What for?"
+
+"I don’t know yet," you say. "But I think there might be a story there."
+
+"Okay!" says Abbey. "I love it! Count me in!"
+
+"Thanks," you say, and eat some of your dinner. You are momentarily distracted by the full, rich flavor of the meatloaf.
+
+"So, are you going to go?" Abbey asks you eagerly after gobbling down a few bites herself.
+
+"Go where?" you ask.
+
+"To the dance, girl."
+
+You pause midbite, then purposefully finish it before answering. "If someone asks me to be their date," you finally say without commitment. You like the idea and you want to support Abbey, but the idea of dancing in public terrifies you.
+
+"Oh, come on," says Abbey, "we’re modern women! Who says we have to wait for a boy to ask us out? I thought you were more progressive than this!"
+
+You sigh. Your friend is right. "Okay, okay, I’ll go!"
+
+Abbey squeals in delight. "Great! Now, who are you going to ask? Charlie? No, he’s too boring."
+
+"Hey," you protest, "that’s our friend!"
+
+"Emphasis on friend," says Abbey. "Oh, I know," she exclaims, "You should ask out Zack Jayson! I see the way you look at him. I caught him checking you out in between periods today."
+
+"Zack Jayson?" says your mom. "Isn’t he the boy who was last seen with the Kylie Addams girl? The one who has disappeared?"
+
+"Wait. How do you know about that?" you ask your mom in surprise.
+
+Abbey rolls her eyes. "Way to kill the mood, Mrs. Lane!"
+
+Your mom ignores Abbey. "I was doing a showing at the Warrington house for one of my clients, and she mentioned how concerned she was for her niece, who went missing. Apparently, her sister has filed a missing persons report on her daughter. According to her friends, she was last seen with that Jayson boy."
+
+Your mind races at the news. Your instincts were right, there was definitely a story there!
+
+Your thoughts are interrupted by your mom. "Hey," she says with a serious expression, "I don’t know if this Zack boy had anything to do with her disappearance, but I want you and Abbey to promise me you won’t go anywhere alone until this gets cleared up, okay?"
+
+What do you do?
+
+*choice
+  #Agree to keep safe and text your mom if something happens.
+    *goto_scene section115
+  #Be noncommittal and hope she doesn’t pick up on it.
+    *goto_scene section116

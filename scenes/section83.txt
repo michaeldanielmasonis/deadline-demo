@@ -1,0 +1,31 @@
+*comment section83
+
+Later in the day, you arrive a few minutes late to your journalism class due to an unexpected call of nature and sit down quickly next to Charlie. "Careful, Jessi," he says quietly. "Ms. Chase is in a mood."
+
+"Jessica Lane!" booms the voice of the small, but mighty Ms. Chase, "so nice of you to join us!" Standing at a few inches above five feet, Ms. Chase might be called petite and pretty—especially with her golden ringlets and Southern belle fashion—but the sheer command in her presence leaves little room for any consideration of softness. She used to be a top-notch reporter for the New York Times before she decided to become a teacher.
+
+"Sorry, Ms. Chase," you say quickly. "Bathroom emergency." Being her favorite journalist might cut you some slack out in the field, but you wouldn't dare miss one of her "morning" briefings. Technically, they were an hour before lunch, but Ms. Chase wasn't concerned about insignificant things like bell schedules. She used to work for the New York Times, and she wasn't going to let school timetables interfere with the way she ran things.
+
+But surprisingly, she just grunts and says, "Don't let it happen again."
+
+Ms. Chase calls for the class's attention and begins the meeting by saying, "Our prize columnist, Miss Danielle Cooper, has left our little news family for the underwhelming pleasure of living in Kansas." The class begins to talk excitedly about the news, but Ms. Chase cuts them off with a look. "Obviously, the important thing here is we now have a huge hole in our Op-Ed pages."
+
+A number of volunteers raise their hands to take Danielle's place, but Ms. Chase dismisses them all with a shake of her head. "No," she says firmly, "It takes a fine mind and a way with words to offer an opinion column that is balanced, well-researched, and also interesting. Jessica, I want you to take the reins of this beast. What do you say?"
+
+You are thrilled to be chosen, of course, but you know that Danielle had been the true wordsmith. You are an excellent reporter, but your flair for words is somewhat lackluster, you admit to yourself. Nevertheless, you are honored that Ms. Chase has such faith in you. Plus, it's a good promotion. You steel yourself for the job and announce with enthusiasm. "I won't let you down, Ms. Chase!"
+
+"That's what I wanted to hear!" After this, she gives you your first assignment. "I want you to cover all the cliques at this school," she says. "Social groups are an enormous influence in a small town—for good and for ill—and I want you in there and with the dirt and the grime. I want you to find an angle that will put our publication in this godforsaken region of the world on the map, do you understand me?"
+
+"Yes, Ms. Chase!" you say.
+
+"Excellent!" she says. "I want your draft in by Friday." And then you see it—your opportunity to sell her on the Kylie Addams story. But as you are about to mention it, you also realize that you may not have enough facts yet to satisfy the requirements of a real story. Then again, you may not have another chance to do it—you'll be committed to the cliques story.
+
+What do you do?
+
+*choice
+  #Mention your story idea.
+    *goto_scene section29
+  #Hold on to it for a while longer.
+    *goto_scene section32
+
+

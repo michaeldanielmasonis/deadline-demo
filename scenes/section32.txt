@@ -1,0 +1,16 @@
+*comment section32
+
+You give Ms. Chase a thumbs-up and hold your tongue about your story idea. It really is only gossip at this point. Until Kylie is officially registered as missing, there is no story here. Besides, she could just be sick at home for all anyone knows. It’s best not to stir up trouble for no reason.
+
+You listen to the rest of the morning briefing and then go off to your corner of the room to plan your attack on the cliques article.
+
+You jot down the five major cliques at the school: there are the Glitterati, of course, but there are also the Blahs, the Geek Squad, the Death Eaters, and the Delinquents. After a moment of deliberation, you decide that the two easiest to approach would be the Blahs and the Geek Squad. The problem with the Blahs is that nobody who is a Blah really thinks of themselves as a Blah. To be a Blah is, by definition, to be someone ordinary--someone who doesn’t really belong to any clique. As such, the Blahs tend to lack cohesion or a real sense of identity.
+
+“Kylie was a Blah,” you think. But then you shove the thought away. “Nope,” you say to yourself, “I had better start with the Geek Squad.”
+
+Pleased with your approach, you begin to jot down a list of interview questions to ask before lunchtime.
+
+*set cool +1
+
+*goto_scene section5
+

@@ -1,0 +1,25 @@
+*comment section66
+
+After school, you say goodbye to Abbey, and you and Charlie head off to the football field to corner the king and queen of the Glitterati, Jonas Barrymore and Mackenzie Hamilton, to get a statement.
+
+As you review and flip through your notes, you think again about Kylie. All day long, you’ve been hearing terrible stories about how she was never really as good as she pretended to be and how she made it a habit to seduce as many guys as she could. “What really happened that night?” you think to yourself.
+
+When you reach the field, you watch as Jonas leads the offense in a quick but successful scrimmage match against the defense. Charlie snaps shots of the boys in action. “He is very talented,” you think, as Jonas effortlessly snaps the ball to a wide receiver thirty yards away. On the sidelines, you take note as Mackenzie leads the cheerleaders through some rather acrobatic choreography. They do it again and again, and while you can see nothing wrong with the routine, Mackenzie is never quite satisfied. Each time, she demands more from her team. Finally, after the seventh time, Mackenzie smiles and tells her team what a good job they have done. ”She is quite the perfectionist,” you think. “It’s amazing how much she can get from those girls.”
+
+The cheer and football teams get done with their practice around the same time, and you approach Jonas and Mackenzie as they talk privately on the sidelines.
+
+“That was a good practice, guys,” you say as you and Charlie walk up to them.
+
+Jonas flashes you a friendly smile, and Mackenzie looks at you with an impatient frown.
+
+“I’m Jessica from the Puma Post, and I’m doing an article on the impact cliques have on the students of this campus,” you say. “As Glitterati royalty, I was hoping that I would be able to get a statement from both of you.”
+
+Jonas looks quickly over at Mackenzie, who is still frowning slightly, “Well, we really have to hit the showers and go home,” he says apologetically, “We’ve got some school projects due pretty soon. So maybe next time.” They both start to leave.
+
+What do you do?
+
+*choice
+  #Coax them with compliments and treats.
+    *goto_scene section100
+  #Offer them an exclusive in the paper.
+    *goto_scene section101

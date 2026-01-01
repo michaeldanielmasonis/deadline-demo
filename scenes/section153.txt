@@ -1,0 +1,35 @@
+*comment section153
+
+Your hand tightens around the crowbar, sweat slicking the metal despite the chill in the air. The Porsche sits in the middle of the barn like a beast waiting to be woken, its silver curves catching your flashlight beam.
+
+“Okay,” you whisper to yourself, trying to summon courage. “Just do it fast.”
+
+You raise the crowbar high and slam it down.
+
+Glass shatters in an explosion of tinkling shards, scattering across the dirt floor. Almost instantly, the Porsche erupts in sound and light. The alarm blares, deafening, each horn blast rattling through your bones. Headlights strobe wildly, flashing red and white across the rafters, twisting shadows into grotesque shapes.
+
+You clap your hands to your ears, heart pounding. The noise is unbearable — suffocating. You lunge for the door handle, yank it open, and scramble into the driver’s seat.
+
+The wires under the dashboard dangle like veins, but your fingers freeze. You don’t know what to pull. You don’t even know where to start.
+
+“Stop—stop, please stop!” you beg the screaming car, your own voice lost in the roar. Panic swells in your chest, your hands trembling uselessly in the mess of cords.
+
+Behind you, a sound cuts through the chaos — a hinge groaning, the heavy drag of a barn door opening.
+
+Your head snaps up. Through the flashing lights, a figure steps inside. Just a shadow, faceless and solid, framed by the pulsing glare.
+
+The gunshot splits the noise like lightning. Your body jerks with the impact, the breath ripped from your lungs.
+
+You stumble backward out of the car, clutching at nothing, glass crunching under your shoes. Pain. Heat. Blood. Another shot rings out, and the floor rushes up to meet you. Then darkness.
+
+The alarm still blares, the lights still strobe, but the world narrows to black.
+
+The Porsche holds its secrets. Kylie’s trail vanishes into silence. Weeks later, Nyx is found dead from an overdose, and the town whispers about what might have been.
+
+You never find out who stood in the shadows that night.
+
+The End.
+
+*set endings +1
+*set deaths +1
+*goto_scene ending

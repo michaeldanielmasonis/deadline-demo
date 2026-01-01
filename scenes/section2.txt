@@ -1,0 +1,29 @@
+*comment section2
+
+The triumph falters when you tug at the handle. The door doesn’t budge.
+
+Locked.
+
+Frustration builds like static in your chest. You stare at the sleek curve of the Porsche, its metallic gray paint catching the thin beams of your flashlight. It’s right here—proof that Kylie’s disappearance is tied to this place—and yet it’s still out of reach.
+
+You grip the handle again, as if sheer willpower might make it open this time. Nothing. The silence in the barn presses in around you, thick with dust and the faint smell of old hay and motor oil.
+
+You step back, breath fogging faintly in the chill air, and look the car over from hood to trunk. Every surface is smooth, polished, expensive. Untouched. Whoever hid this here meant for it to stay hidden.
+
+You scan the dark interior through the glass. The leather seats gleam faintly in your light. No purse. No papers. No obvious clues.
+
+Your grip tightens around the crowbar. For a heartbeat, you consider just swinging—shattering the glass, dragging the truth into the open whether it wants to be or not.
+
+But the idea of the sound—the crash of breaking glass, the shriek of a car alarm echoing through the fields—makes your stomach knot. You’re alone. If someone is nearby, they’ll hear it. If there’s an alarm, it could go on for minutes.
+
+Your flashlight beam sweeps across the barn again: over half-buried crates, a rusted ladder, shadow-drenched corners you haven’t explored yet. The wooden rafters loom overhead like the ribs of some long-dead beast.
+
+The Porsche isn’t the only secret hiding in here.
+
+What do you do?
+
+*choice
+  #Break into the car.
+    *goto_scene section52
+  #Continue to search the barn.
+    *goto_scene section77

@@ -1,0 +1,30 @@
+*comment section6
+
+“Let’s try one of the windows,” you whisper, glancing toward the looming barn doors. The heavy lock gleams in the flashlight beam like a dare. “Breaking that will be too loud. Everyone within a mile would hear it.”
+
+Zack nods, lips pressed thin. “Good thinking.”
+
+You circle to the back of the barn, the damp grass whispering against your shoes. The wood siding rises above you, weathered gray and splintered with age. The boards over the window look brittle but still cling stubbornly in place, nailed down years ago.
+
+You wedge the crowbar into the seam. The metal is icy under your hands, and when you lean your weight into it, the board responds with a low metallic groan. The nails screech as they bend, the sound slicing through the stillness.
+
+You and Zack freeze, hearts hammering, listening to the night.
+
+Only the steady drone of crickets answers back.
+
+Breathing again, you ease the board loose. The wood gives way with a final pop, splinters scattering at your feet. You lower it carefully into the grass, praying it doesn’t clatter.
+
+Behind it, the window frame gapes like an empty socket. Most of the glass has already shattered, jagged shards clinging to the edges. The air wafting through smells of dust, hay, and rusted iron.
+
+Zack laces his hands together and crouches low. “Up you go.”
+
+You step into his grip, his palms rough beneath your shoes, and he pushes you upward. Your fingers find the edge of the sill—wood rough and damp beneath your touch. You grit your teeth as a shard of glass scrapes your sleeve, then wriggle through the gap.
+
+Dust billows up as you drop inside, landing with a muted thud on the barn’s dirt-streaked floor. The air is thick and stale, filled with the scent of old hay and mildew.
+
+For a breathless moment, you crouch in the dark, flashlight trembling in your hand.
+
+Success.
+
+*set cool +2
+*goto_scene section2

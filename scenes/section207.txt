@@ -1,0 +1,18 @@
+*comment section207
+
+Your mother demands that you explain yourself, but you find it difficult to explain. You end up telling her and the principal the whole story of your investigation of Kylie’s disappearance and what happened at Nyx’s place.
+
+After you are done, the principal insists that you stay and talk to the police. It takes some time for Detective Garcia to finally show up, but when she does, she listens carefully to your story. They also call in your friends to interview them. The whole process takes hours.
+
+By the time they are finished with you, you are exhausted and have missed the first couple of hours of the dance. The police insist that you stay home while they finish investigating your claims, so you are never able to attend it. A squad is immediately sent to Nyx’s place, but the search proves unfruitful. The police try to get a warrant to investigate the MacReady farm, but it doesn’t get approved until the following morning. When they finally get there, they discover a hidden basement in the barn, but it has been completely swept clean of any evidence of anything.
+
+A couple of weeks later, the investigation fizzles out, and Kylie and Nyx are never seen again.
+
+A month later, on a completely different matter, the third-party audit of the booster club proved Jonas’s story about stealing money from the account was true. Jonas’s parents had discovered the truth of the missing money and put the money back to cover it up a day before they put pressure on the principal to silence you. The full news of the scandal shocked the community, and both Jonas and Mackenzie’s families sold their homes and moved to different states.
+
+While you finally feel vindicated and gain some satisfaction that some measure of justice had been done for Kylie, you always regret that you never found out what really happened to her. You are haunted by the idea that if you hadn’t been so quick to bring judgment to Jonas and Mackenzie, you might have been able to find Kylie and save her from whatever fate she may have suffered.
+
+The End.
+
+*set endings +1
+*goto_scene ending

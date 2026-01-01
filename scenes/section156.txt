@@ -1,0 +1,61 @@
+*comment section156
+
+You spin as the figure steps into the light, and your stomach drops. The familiar face is framed in the harsh beam of your flashlight.
+
+“Ms. Chase,” you breathe. “You’re Janet DiAnglia.”
+
+“Obviously.” Her voice is flat, cool. A pistol glints in her hand, steady as stone.
+
+Your instincts betray you—your hands twitch toward your pockets.
+
+“Ah-ah,” she warns sharply. “Hands where I can see them.”
+
+Slowly, you raise them, fingers trembling. The cold cellar air bites at your skin, but sweat still beads on your forehead.
+
+“Come on, Ms. Chase,” you try, your voice echoing too loudly against the concrete walls. “You’re a brilliant journalist. A good teacher. Why throw all that away?”
+
+She smirks, lips curling without humor. “Explain myself to you? Please. You’re a child playing at being a reporter.”
+
+“One journalist to another,” you press, desperate to buy time, “inquiring minds want to know.”
+
+Her eyes gleam with amusement. She gestures with the gun. “Fine. One final interview. Three questions before I kill you. Consider it professional courtesy.”
+
+Your heart slams against your ribs. You nod. “Why did you kill Kylie Addams?”
+
+Her smile fades into ice. “Because she stumbled into my operation with Nyx Poulson. She was in the way.” Her voice sharpens. “That’s one.”
+
+Your throat tightens. “Why kill Nyx?”
+
+She rolls her eyes. “Obvious. He could identify me. That’s two.” The gun cocks with a chilling click.
+
+You scramble for the last question, words tumbling out. “How does a star reporter for the New York Times end up running drugs out of a high school?”
+
+For the first time, pride flickers in her expression. She steps closer, her heels clicking sharp pock-pock notes on the icy concrete. “Now that’s a question. Money, Jessica. Lots of it. But also spite. Betrayal. By my editor with whom I was having an affair. I was fired, blackballed, stripped of everything I built. I lost my savings in a scam, my home in the city. The Carlton Heights gardens—you’ve heard of them? Mine. A money pit. This was the only way to keep it afloat.”
+
+Her words echo in the cold space, too loud, too final.
+
+You edge back, eyes darting to the ladder, the walls—any escape. But the room feels smaller with every second, the barrel of her gun pinning you in place.
+
+Ms. Chase checks her watch, then raises her gaze to you with a thin smile. “That’s three. Time’s up.”
+
+Your pulse screams in your ears. You want to run, to fight, to do anything but stand frozen.
+
+“Goodbye, Jessica,” she says softly, almost like a teacher dismissing a class. “It’s been fun.”
+
+The cellar fills with the crack of the shot.
+
+But at the last second, you dive towards Ms. Chase. Surprised, you hit her in the shoulder and the shot misses. The gun clatters to the floor and without a glance, you rush up the rings of the frozen ladder, your skin sticking to its icy surface.
+
+“You can’t run from me!” screams Ms. Chase as she limps towards the gun.
+
+You don’t stop to listen, but climb out into the barn and try to put as much distance between you and your teacher as possible.
+
+Outside the barn you hesitate.
+
+What do you do?
+
+*choice
+  #Run into the woods.
+    *goto_scene section159
+  #Run back to the dance.
+    *goto_scene section160

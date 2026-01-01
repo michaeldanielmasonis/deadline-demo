@@ -1,0 +1,36 @@
+*comment section167
+
+The next day, your mom drives you to Carlton Memorial Hospital. She squeezes your hand before letting you go inside. You step quietly into Charlie’s room with a vase of flowers, nerves buzzing in your chest.
+
+“Hey, you,” you say when you see him. He’s propped up against the pillows, shoulder wrapped in gauze, his face pale but alert.
+
+His eyes widen, then soften. “Jess,” he says, voice rough but steady. “You actually came.”
+
+“Of course I did,” you reply, setting the flowers on the nightstand. “It’s tradition. Don’t roll your eyes—it makes hospital rooms less depressing.”
+
+Charlie chuckles, the sound thin but genuine. “Well, then… thanks. They’re perfect.”
+
+You sit carefully at the edge of his bed. The room hums quietly around you—beeping monitors, footsteps echoing in the hall—but for a moment, it’s just the two of you.
+
+“Listen,” he says after a pause, his expression suddenly serious. “I want to thank you. You saved my life out there. If it weren’t for you…” He trails off, shaking his head. “I don’t even want to think about it.”
+
+You wave him off quickly. “Forget it. I’m just sorry I dragged you into this mess in the first place.”
+
+“Don’t say that,” Charlie insists. His eyes, usually darting nervously, hold steady on yours. “You didn’t drag me anywhere. You gave me a chance to matter. To do something real. And I’d do it again. Every time.”
+
+The weight of his words sinks into you, and your throat tightens. For a second, you can’t think of anything to say. So you just reach out and squeeze his hand.
+
+He squeezes back, weak but firm. “We’re in this together,” he says.
+
+You smile, blinking away the sting in your eyes. “Yeah,” you agree. “Together.”
+
+The moment holds, quiet and sure, stronger than words.
+
+Whatever comes next, you know you won’t face it alone.
+
+*if trust_jonas <= 1
+  *goto_scene section168
+*else
+  *goto_scene section90
+
+

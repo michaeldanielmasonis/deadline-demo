@@ -1,0 +1,39 @@
+*comment section204
+*set cool +1
+
+The principal’s words hit you like a slap in the face. Stiffening, you look him in the eye. “I do not write gossip pieces,” you declare. “My work is completely professional, Mr. Dean.” The principal opens his mouth to say something, but your anger causes you to burst out before it can leave his lips. “And before you start talking some nonsense about Jonas and Mackenzie and whatever those spoiled rich kids think I’m trying to write about, perhaps you should read what I actually wrote!”
+
+Quickly, you take out your laptop and open it up to your column piece. “Here,” you say, and turn it towards him.
+
+Mr. Dean’s hard stare begins to soften as he reads your article. When he reaches the end, he closes the laptop and pushes it towards you with a thoughtful look on his face.
+
+He drums a finger on the table for a moment and then looks up at you. “You’re right,” he says, finally. “This is very professional. And contains no gossip whatsoever.” Giving a small sigh, he nods his head towards you. “I shouldn’t have jumped to conclusions without hearing both sides of the story. I apologize.”
+
+Your jaw drops for a second, and you shut it again just as quickly. “Th-thank you, sir.” You manage to say.
+
+“Jonas and Mackenzie’s parents are important people in this town and in this school,” Mr. Dean says, looking as if he had swallowed a bitter pill, “and they are quite… protective… of their reputation. I will ensure they understand your innocence in this matter.”
+
+“Thank you,” you say again.
+
+Your mother, with narrowed eyes and a scowl-contorted face, says to your principal tightly, “Don’t you think that you should take a closer look at the embezzlement story, all things considered? Why would these two kids make up a story to discredit my daughter unless there was something real there to begin with?”
+
+Mr. Dean nods his head slowly in agreement. “I will have a third party launch a formal investigation in the form of an audit. If there is any discrepancy in their story, it will be found out.”
+
+“Thank you,” your mother says with a satisfied nod.
+
+“However,” Mr. Dean looks stern once more. “There is a separate matter to be dealt with.”
+
+Curious, you pause in putting your laptop away and look up at him with a questioning stare.
+
+“You and your friends ditched your classes the other day and left campus without authorization.”
+
+Your mother’s expression turns angry again. “More false accusations?” your mother demands.
+
+Mr. Dean shakes his head. “No. It was an anonymous tip, but quite accurate. We caught you and your friends on a security camera hopping over the wall. It was quite a well-planned operation, actually. I’m impressed.”
+
+The blood drains from your face as you stare at Mr. Dean, abashed. “Um,” is the only thing you can say.
+
+*if trust_mom > 2
+  *goto_scene section206
+*else
+  *goto_scene section207

@@ -1,0 +1,43 @@
+*comment section151
+
+“Let’s break into the car,” you whisper, voice trembling as you gesture with your crowbar toward the Porsche.
+
+Charlie swallows hard, then nods. “Okay… let’s do it.”
+
+He hefts his crowbar awkwardly, raises it over his shoulder, and slams it against the driver’s-side window.
+
+Glass erupts in a sparkling crash, shards scattering across the barn floor. The sound detonates in your ears — and then the alarm explodes to life.
+
+The horn blares in frantic bursts, so loud it rattles the rafters. The headlights flash in violent rhythm, strobing the barn in blinding white and red. The sound is unbearable, a wall of noise that seems to press down on your chest.
+
+“Charlie!” you shout over the din. “Shut it off!”
+
+“I—I don’t know how!” he yells back, fumbling helplessly at the dashboard. His hands claw at wires but come away shaking, useless.
+
+Your own pulse hammers in your ears. The barn feels alive with the shrieking alarm, every shadow leaping and twisting in the flashes of light.
+
+Neither of you notices the barn doors creak open.
+
+A figure steps through the chaos, a silhouette cut sharp against the strobes.
+
+The first gunshot cuts through the blaring horn like a thunderclap. Charlie jerks, staggers back from the Porsche, and collapses hard to the floor, blood pooling around his body from the hole in chest.
+
+“NO!” The scream rips out of you raw, louder than you thought possible. Your throat burns with it, but the sound drowns in the relentless honking and flashing lights.
+
+You stumble toward the window, desperate, clawing for escape. Your hands scrape against the jagged sill as you try to hoist yourself up.
+
+Another shot cracks.
+
+The impact hurls you backward, the world spinning as the flashlight clatters from your grip. The last thing you see is the shadow moving closer, framed by the pulsing headlights of the Porsche.
+
+Then everything goes dark.
+
+The Porsche yields no answers. Kylie’s trail runs cold. Weeks later, Nyx is found dead from an overdose, and the investigation fades into whispers and rumor.
+
+Perhaps, if you had chosen differently, the truth might have been uncovered.
+
+The End.
+
+*set endings +1
+*set deaths +1
+*goto_scene ending

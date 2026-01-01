@@ -1,0 +1,25 @@
+*comment section86
+
+During the last period of the day, a student office assistant comes into class with a note for you. The teacher calls you to the front and hands you the note. "Jessica, Mr. Dean wants to see you," the teacher says.
+
+You blink in surprise. "Mr. Dean? The principal? What could he want with me?" you think. You are never in trouble. The class oohs over the news, and you blush a little as you grab your bag and exit the class.
+
+As you enter the main office, you sense a tense vibe, and you immediately begin to feel uncomfortable. Mr. Dean's secretary stares a hole in you as you approach the glass-paneled double doors that lead to Mr. Dean's office. "Go on in, Ms. Lane," she says with a hint of disapproval. Her tight perm and chubby cheeks give her a sour expression.
+
+You hear your mother's voice raised in protest as you open the door and step in.
+
+"My daughter would not make up lies about anybody. If she said that this Jonas person confessed to stealing money from the Booster Club, then he did! Perhaps you should investigate the matter rather than harass Jessi for doing her job!"
+
+Mr. Dean, a stern-faced, balding man with a thick mustache, purses his lips. "Ms. Kravitz," he says in his rattling voice, "we did do an investigation. There is no money missing from the Booster Club account. Every penny is present and accounted for, in fact, we—" Mr. Dean's voice cuts off as he notices you standing at his door. "Please come in, Ms. Lane."
+
+You step forward a little bit intimidated, but take a seat next to your mother, who glances at you with a comforting smile.
+
+As you settle in, Mr. Dean purses his lips and frowns. "So, Ms. Lane, perhaps you'd care to talk about this gossip piece you are planning on writing for the Post?"
+
+*comment Branch based on whether the cliques article was completed.
+*if article_finished
+  *goto_scene section204
+*else
+  *goto_scene section205
+
+

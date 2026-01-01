@@ -1,0 +1,37 @@
+*comment section165
+
+You sprint into the trees, lungs burning, branches whipping your arms and face. The woods swallow you whole — the dance music fades into nothing but your own breathing and the pounding of your heart.
+
+You throw yourself behind a thick oak, pressing flat against the bark. Its rough surface scrapes your cheek as you clamp a hand over your mouth. Every breath feels too loud.
+
+Footsteps follow. Slow. Measured. The crunch of leaves under heels.
+
+“Jessica…” Ms. Chase’s voice threads through the trees, sing-song and mocking. “You can’t hide forever.”
+
+You crouch lower, knees screaming, clutching the recorder in your pocket like a talisman. Darkness pools between the trunks, and every shadow looks like her silhouette. You pray for sirens, for flashing lights, for anything — but the night stays silent.
+
+A flashlight beam flickers through the undergrowth, sweeping like a hunting animal. You press yourself smaller, tighter, trying not to breathe.
+
+“Such a clever girl,” Ms. Chase calls, closer now. “Always asking the right questions. But you never learned when to stop.”
+
+The light passes inches from your face, illuminating your trembling hands. You freeze, every nerve begging to run, but fear roots you. For a heartbeat, you think you’re safe.
+
+Then the beam snaps back.
+
+“There you are.”
+
+You bolt, crashing through brush and branches, thorns tearing at your jacket. You barely make it five steps before the crack of a gunshot explodes behind you. Pain sears your back and steals your breath. You stumble forward, then collapse into the leaves, the ground cold and damp against your cheek.
+
+Ms. Chase’s heels crunch closer. Her shadow stretches across your failing vision, blotting out the stars. She crouches, voice calm and almost gentle.
+
+“Journalists die when they dig too deep,” she whispers.
+
+The last thing you feel is her breath cold against your ear — and then nothing at all.
+
+The End.
+
+*set endings +1
+*set deaths +1
+*goto_scene ending
+
+

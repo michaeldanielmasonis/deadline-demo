@@ -1,0 +1,28 @@
+*comment section136
+
+A moment later, you’re surprised to see Charlie step out onto the veranda, the music from the dance venue muffled behind him.
+
+"You okay?" he asks softly.
+
+"Yeah," you say, though your voice doesn’t sound convincing, even to you.
+
+Charlie tilts his head. "That doesn’t sound like the truth."
+
+You exhale, staring out at the darkened gardens lit up by fairy lights. "I just wish I had done things differently. I hurt the feelings of someone I care about because I was selfish. And now I’m out here alone because I was a coward."
+
+"You’re not alone," Charlie says gently. "You’ve still got us. And… I’m standing right here. With you."
+
+Your chest tightens. "Thank you. It’s more than I deserve."
+
+Charlie hesitates, then reaches for your hand. "No. You deserve so much more."
+
+You stand there together until your watch buzzes.
+
+"It’s time," you say.
+
+Charlie smiles softly. "Then let’s go."
+
+*if abbey_gardens
+  *goto_scene section138
+*else
+  *goto_scene section45

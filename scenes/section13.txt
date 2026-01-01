@@ -1,0 +1,9 @@
+*comment section14
+
+At your response, Mr. Hudson frowns and uncrosses his arms. "Perhaps, then," he says, pointing to your sketch of a cartoonish vampire Zack biting the neck of a buxom Kylie alongside a big question mark, "you ought to be paying more attention during my lecture rather than daydreaming of vampire boyfriends in your notebook."
+
+The class laughs, and you feel a blush deepen over your face. As best you can, you try to recover and pay attention for the rest of the class period. When the bell rings, you beat a hasty retreat to your next period.
+
+*set cool -1
+
+*goto_scene section12

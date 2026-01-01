@@ -1,0 +1,32 @@
+*comment section84
+
+Surprisingly, you make it back in time for your journalism class, and you think everything is going fine. But after the morning meeting, Ms. Chase calls you to her desk. "Read this," she commands and tosses a letter on the desk beside you.
+
+As you read it, Ms. Chase's voice cuts into you. "It's a letter of complaint. From Mackenzie Hamilton. She claims you harassed her and are writing false reports about her and her boyfriend."
+
+"That's a lie!" you say.
+
+"Really?" says Ms. Chase. "Then explain yourself."
+
+"All I did was take their statements when I asked questions about their cliques!" you exclaim.
+
+"Then why does it say you accused her of making up lies about Kylie Addams and are claiming that Jonas Barrymore stole Booster Club money?"
+
+"I didn't say any of that. Jonas did," you complain. "I just took down his statement."
+
+"After I told you not to pursue the Kylie Addams story?" says Ms. Chase with a growl.
+
+"I—I," you stutter, not sure what to say to that. "It is completely relevant to the cliques story!" you finish lamely. "In my opinion."
+
+Ms. Chase closes her eyes and holds the bridge of her nose. "Did you record her statement at least?" she asks.
+
+"Well, yeah," you say, "on my notepad."
+
+"In. Audio." Ms. Chase says through clenched teeth.
+
+*if recorded_jonas
+  *goto_scene section127
+*else
+  *goto_scene section128
+
+

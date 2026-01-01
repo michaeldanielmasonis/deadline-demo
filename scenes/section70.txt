@@ -1,0 +1,47 @@
+*comment section70
+
+You look at Charlie with an agitated frown. “I’m sorry, Charlie. I can’t accept.”
+
+Charlie freezes, lips trembling.
+
+Before he can speak, you continue, “I’ve been hoping Zack would ask me. But he hasn’t yet. And… you’re my friend. I don’t think of you that way.”
+
+The words hit him like a sledgehammer.
+
+“I… you…” His face goes white. “I never imagined you could be so cruel, Jessi.”
+
+He shoves the flowers at you and storms out.
+
+Horrified, you drop them and sprint after him. “Charlie! I’m so sorry!”
+
+You catch him at his car. “Please, Charlie. Forgive me!”
+
+“Why?” he asks brokenly.
+
+“Because I was selfish,” you say. “I wasn’t thinking about your courage. Or you. Only myself—and a guy I’ve known for days. You’re my oldest and dearest friend. I couldn’t live with myself if I hurt you.”
+
+“Well, you have,” he says.
+
+“Can you forgive me?” you whisper.
+
+Charlie blinks back tears… then nods. “Yeah. But it’ll take time.”
+
+You hug him tightly. He pats your back weakly.
+
+He pulls away. “Do you think… you could ever think of me that way?”
+
+You swallow. “I don’t know. I never thought of it before. But you *are* the kind of guy I could love. Honest, brave, loyal… forgiving.”
+
+Charlie snorts softly.
+
+“But I need time,” you finish.
+
+“Okay,” he says with a sigh. “See you tomorrow.”
+
+He drives off.
+
+Inside, you pick up the crushed flowers… and cry. Your mom just holds you.
+
+*set trust_charlie -1
+*set cool -2
+*goto_scene section75

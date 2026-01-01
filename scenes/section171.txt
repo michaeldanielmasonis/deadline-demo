@@ -1,0 +1,47 @@
+*comment section171
+
+You know just who to turn to for help finding a Delinquent who will talk. But when you approach the Crypt, Keira and River aren’t there. One of the Death Eaters says they had some business with a Blah in the cafeteria. Quickly, you head there.
+
+The cafeteria feels too bright at midday—the overhead fluorescents buzzing like hornets, silverware clattering against trays, the constant chatter bouncing off the walls. You move carefully between tables until you spot Keira and River in their usual corner.
+
+The two Death Eaters sit apart from the main flow of students. Keira has her sketchbook open, dark ink smudged across her fingers, while River absentmindedly taps a rhythm on the table with his rings. They notice you right away, but instead of sneers, you get wary glances—like a pair of watchful ravens.
+
+“Hey, Jessi,” Keira says softly, closing her sketchbook but keeping one hand protectively over it. “What’s up?”
+
+You hesitate, then take a breath. “I need a lead on someone from the Delinquents. I’m working on a piece, and I want their voices in it—not just the rumors.”
+
+River tilts his head, studying you. “That’s dangerous territory. The Delinquents don’t usually… talk.”
+
+“I know,” you admit. “But Kylie was connected to them. And if I’m going to do her story justice, I need more than whispers. I want the truth.”
+
+For a moment, neither of them speaks. Then Keira leans forward, her expression softer than you expect. “You’re braver than most people give you credit for, Jessi. But you’ll need to be careful. Some of the Delinquents won’t see what you’re doing as respect—they’ll see it as spying.”
+
+River nods slowly. “Still… if anyone will talk, it’s Declan. He’s rough around the edges, yeah, but he’s not cruel. He respected Kylie. That counts for something.”
+
+Your heart skips. “Where do I find him?”
+
+Keira exchanges a glance with River before answering. “Shop wing. Usually late in the day, when the hall’s quiet. Or the back lot. He hangs out there when he’s skipping.”
+
+River gives a small, almost protective smile. “If you go, don’t corner him. Just… be honest. That’s what Kylie always did. It’s why people trusted her.”
+
+You jot the notes into your pad, your chest tight but hopeful. “Thank you. Both of you.”
+
+Keira’s hand brushes yours briefly as she passes your notebook back. “Be careful, Jessi. Some truths cut deeper than you think.”
+
+You nod and step back into the crowd of students, heart hammering. Towards the end of the school day, you make your way to the shop classes.
+
+The hallway near the shop wing smells faintly of motor oil, hot metal, and the sharp bite of sawdust. The fluorescent lights flicker overhead, casting uneven shadows across the concrete floor. Most students have already headed to their afternoon classes, so the wing feels emptier, quieter—like a place set apart from the rest of the school.
+
+You hear it before you see him: the rhythmic clang of a wrench striking metal. When you push open the heavy door to the auto shop, you spot Declan leaning under the hood of a battered Camaro, his leather jacket patched and fraying. His buzzcut gleams under the work light, and his knuckles are smeared with grease.
+
+He doesn’t look up when you step inside. “This is a work area,” he says flatly, his voice carrying easily in the cavernous room. “Students only. No press.”
+
+Your fingers tighten around your notebook. This is the moment.
+
+*choice
+  #If you say you want to interview him for an article about his perspective on cliques.
+    *goto_scene section173
+  #If you say you talked to Nyx about Kylie and are worried about him.
+    *goto_scene section174
+  #If you say you are writing a story on cliques, but you are framing it around what happened to Kylie.
+    *goto_scene section175

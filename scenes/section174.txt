@@ -1,0 +1,44 @@
+*comment section174
+
+The clang of a wrench rings through the auto shop, bouncing off concrete walls. Declan doesn’t look up when you step inside, the smell of oil and burnt metal stinging your nose.
+
+“I wanted to talk to you,” you say, your voice catching a little in the cavernous room. “It’s about Nyx. And Kylie.”
+
+That gets his attention. He straightens, wiping his hands on a rag, eyes sharp and suspicious. “What about them?”
+
+“I think they’re in trouble,” you admit. The words tumble out faster now, your chest tightening. “And I’m worried. I talked to Nyx once, about Kylie, and I could tell he wasn’t okay. I can’t stop thinking about it. I don’t want them to end up as names people whisper about in past tense. I need to understand what’s really going on.”
+
+Declan stares at you for a long moment, his jaw tight. Then he tosses the rag onto the workbench and leans against the Camaro, arms crossed.
+
+“You’re a reporter,” he says flatly. “You want quotes, not the truth.”
+
+You shake your head, stepping closer. “No. Not this time. I don’t care about filling a column. I care about Kylie and Nyx. They’re more than labels. And if there’s anything I can do—anything at all—I need to try.”
+
+Something shifts in his expression, not quite softening but no longer pure suspicion. He lets out a slow breath. “Being called a Delinquent… it’s a curse. Doesn’t matter if you mess up once or a hundred times—once the label’s stuck, it’s all anyone sees. Teachers expect you to fail. Parents tell their kids to stay away. You stop being a person and start being a warning sign.”
+
+His eyes harden. “But Kylie… she never treated us like that. She’d sit at our table, ask us about our day, laugh at our dumb jokes. Nyx—he was different with her. He acted like he might actually deserve something good for once. She believed in him when the rest of the school only saw a lost cause.”
+
+Your throat tightens. “Please tell me. I want to help them.”
+
+Declan pushes off the car and steps closer, his voice dropping low. “They are in more danger than you know. And that’s where we have a problem, Jessi. You want a story. But this isn’t one. It’s life and death. If you really care about Kylie and Nyx, you’ll prove it.”
+
+You swallow hard. “How?”
+
+“Drop the article,” Declan says firmly. “You walk away from writing about the Delinquents—no quotes, no gossip, no half-truths. In exchange, I’ll give you something real. A tip. Something that could save Nyx’s life. And maybe Kylie’s too.”
+
+The weight of his words presses on you like the dim air of the shop. He studies you, waiting.
+
+“You’ve got to decide right now,” Declan adds. “Are you here as a reporter? Or are you here because you care?”
+
+Your phone buzzes in your pocket, Toby’s name flashing on the screen. The license plate trace.  
+The choice hangs between your hands like a live wire.
+
+*set interviews +1
+*set interviewed_delinquents true
+*achieve delinquents_interview
+
+*choice
+  #Give up the Cliques article. Kylie’s life is more important.
+    *goto_scene section178
+  #Keep the Cliques article. You are already doing everything you can to save Kylie, including talking to the police. Sacrificing the truth won’t save her.
+    *goto_scene section179

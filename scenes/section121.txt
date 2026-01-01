@@ -1,0 +1,29 @@
+*comment section121
+
+The threatening note sits between you on the cafeteria table like it’s daring you to touch it. The ink is jagged, black strokes that seem to bite into the paper.
+
+Abbey leans forward, her campaign button flashing under the buzzing lights. "We should take it to the police. This is serious."
+
+Charlie fidgets, shoving his glasses higher, his leg bouncing under the table. "Yeah, but remember what happened this morning? Jess, you already got caught trying to eavesdrop on their interviews."
+
+Heat rushes to your cheeks. You can still hear Detective Garcia’s flat voice in your memory: You were spying.
+
+Zack leans back in his chair, crossing his arms. "He’s not wrong. The cops already think you’re nosy. If we show up with this note, what’s the first thing they’re gonna think? That it’s just you, stirring the pot again."
+
+Abbey shoots him a glare. "That’s not fair. Jessi messed up, but this is different."
+
+"Doesn’t matter if it’s different," Charlie says. "What matters is how they see it."
+
+The cafeteria noise swells around you — clattering trays, laughter from the next table — but your little group sits under a bubble of tension. The note feels heavier than paper should, its meaning twisted by your mistake.
+
+All three of them look at you. Waiting.
+
+You trace a finger along the notebook edge, your skin tingling with shame and frustration. Do you risk going back to the police, knowing Garcia already doubts you? Or do you keep the note close, hoping for another way?
+
+*choice
+  #Still tell the police and leave it in their hands.
+    *goto_scene section122
+  #Still tell the police despite the earlier mess up and continue the investigation.
+    *goto_scene section123
+  #Don’t tell the police and continue the investigation without them.
+    *goto_scene section38

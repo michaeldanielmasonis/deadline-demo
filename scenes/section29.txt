@@ -1,0 +1,20 @@
+*comment section29
+
+“Actually, Ms. Chase,” you say. “I already have a story idea that might work well for the column.”
+
+“Oh?” says Ms. Chase with a raised eyebrow. “And what story is that?”
+
+You quickly explain what you heard about Kylie Addams and Zack Jayson. When you mention Kylie’s “disappearance,” Ms. Chase looks at you sharply, and when you start to mention an angle about what students need to do to stay safe, her sharp look becomes one of disgust.
+
+“How many times do I have to say it?” Ms. Chase asks in cold frustration. “This is not a gossip rag! This is a professional disseminator of news!” She puts a hand on her hip and looks at you in disappointment. “Honestly, Jessica, I expect better from you. The only purpose behind this story is an excuse to use our publication to share gossip about a poor girl who never did anybody any harm. And what would her parents say, or the parents of the students involved, if we printed something like this? You have to think things through, Ms. Lane.”
+
+You start to apologize, but Ms. Chase puts her hand up. “No, no! I don’t want to hear it. Just start working on the cliques article, or I might start regretting I made you a columnist.”
+
+Quickly, you shut up and slink away to the corner of the room as Ms. Chase finishes her briefing. “Stupid. Stupid. Stupid!” you think to yourself. “I have to be smarter than this!”
+
+For the rest of the period, you plan your attack on the cliques article. There are five major cliques at this school: The Glitterati, the Blahs, the Geek Squad, the Death Eaters, and the Delinquents. After a moment, you decide that you will start with the Geek Squad at lunch. They seem the easiest to approach.
+
+*set cool -1
+
+*goto_scene section5
+

@@ -1,0 +1,37 @@
+*comment section131
+
+*set cool +2
+
+You fold your arms and raise an eyebrow at Toby's smirk. The computer lab hums with cooling fans, monitors flickering like neon eyes in the dark.
+
+"Fine," you say, letting sarcasm drip into your voice. "I'll just ask someone else. Maybe the Delinquents. I'm sure they'd love to take a crack at tracing a Porsche. Probably hack it faster than you could."
+
+The Geek Squad stiffens like you just cursed in binary. One guy nearly chokes on his soda.
+
+Toby's smirk vanishes. "The Delinquents? Please. Those gorillas can't even reset a router." He spins back toward his monitor, fingers already hovering over the keyboard.
+
+"You want a plate trace? We'll show you how it's done."
+
+Code begins to scroll across his screen, green text spilling like water. The other Squad members crowd closer, muttering about subroutines and encryption keys.
+
+Charlie leans toward you, whispering, "Wow. You pushed the right button."
+
+You grin faintly. Toby doesn't just look willing — he looks determined to prove you wrong.
+
+"Okay," he says, turning back to you and Charlie and taking the photograph. "Consider it done. We'll get back to you ASAP. Now, go away and let us work. Trade secrets and all that."
+
+You thank Toby and his friends and leave the corner of the lunchroom. You and Charlie hook up with the rest of your friends and catch everybody up on what has happened.
+
+You find out that Abbey was able to get away scot free with the security guard by flirting a little and pretending to be looking for a lost earring.
+
+But as the day drags on, you keep looking at your cell phone and willing it to ring. Charlie had assured you that it would only take a couple of hours for the Geek Squad to get the information and get back to you. "Come on, guys," you think, "call me!"
+
+As you think about Kylie and Nyx and drug dealers, you suddenly remember you haven't gotten an official statement from the Delinquents clique yet. You wonder if it's worth it. Finding Kylie seems more important than the article at this point, but your journalistic integrity is nagging at the corners of your mind.
+
+What do you do?
+
+*choice
+  #Find the Delinquents and get their perspective on the article.
+    *goto_scene section171
+  #Leave them alone and focus on writing the article and finding Kylie.
+    *goto_scene section172

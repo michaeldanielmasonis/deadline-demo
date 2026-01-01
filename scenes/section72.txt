@@ -1,0 +1,78 @@
+*comment section72
+
+You spin around as the figure steps into the light to reveal the face of your journalism advisor.
+
+“Ms. Chase!” you exclaim. “You’re Janet DiAnglia!”
+
+“Obviously,” she says, pointing a gun at you.
+
+“But why?” you ask, putting your hands in your pocket.
+
+“Ah, ah, ah!” corrects Ms. Chase, “Put your hands where I can see them!”
+
+You quickly take your hands out of your pockets and raise them. Zack does the same.
+
+“Come on, Ms. Chase,” you say, “you’re a brilliant journalist and a good teacher. Why would you do such a thing?”
+
+Ms. Chase snorts, “Oh, please, like I’m going to explain myself to you!”
+
+“Come on,” you urge, desperately trying to buy time to escape, “one journalist to another. Inquiring minds want to know!”
+
+“Okay, fine,” she says, making you stand next to Zack with a flick of her gun, “one final interview. I’ll give you three questions before I kill you. Consider it a professional courtesy.”
+
+You stand next to Zack and huddle next to him for warmth. “So,” you ask with a raised eyebrow, “Why?”
+
+“Why, what, Jessica?” says Ms. Chase, “You have to be more specific.”
+
+“Why did you kill Kylie Addams?” you ask.
+
+“Because she found out about my drug operation with poor young Nyx Poulson, and she was in my way,” answered Ms. Chase. “That’s one,” she adds.
+
+“Why did you kill Nyx?” you ask nervously.
+
+“Oh, please,” scorns Ms. Chase, “the answer to that one is obvious! I killed him because he could identify me as Janet DiAnglio, drug dealer at large. What a waste of a question! Truly, I think I’ve failed you as a teacher if that’s the best you can come up with, Jessica!” Ms. Chase cocks her gun and points it at you. “Two,” she adds.
+
+Sweat pours down your face despite the freezing cold. You think hard about your next question. “How does a star reporter for the New York Times become a drug dealer in a small-town high school?”
+
+“Ah,” says Ms. Chase in triumph. “Now that is an excellent question!” Your teacher steps closer to you, and you notice she is still wearing her formal wear for the school dance, her high-heeled shoes making a pock-pock sound on the icy concrete floor. “We don’t have time for the full answer since I have to get back to the dance--I am a chaperone, after all--but I will give you the simple answer. Money: Lots of money!”
+
+“What,” you joke, “is your teacher’s salary not enough?”
+
+Ms. Chase lets out a harsh laugh. “Hardly,” she answers. “But that’s not why I did it. I did it because I was wrongly fired from my job as a journalist! I did it because I was forced to move to this stupid, backwater, hicktown! I did it because every cent I’ve ever earned was lost in a stupid real estate scam! Do you know what it feels like to watch your life investment slowly drain away just because some prick editor at the Times decided he didn’t want you to be his lover anymore? Do you?”
+
+“Um, no,” you say. But then it dawns on you what she was talking about. “You’re talking about the Carlton Heights Victorian Garden! You own the company that bought it out.”
+
+“That’s right,” Ms. Chase says, “It’s a complete pile of dung. And I needed to sell the drugs just to keep the place afloat.”
+
+You look at her curiously, almost forgetting the danger. “But you’re a journalist,” you say, “How did you come by the drugs? How did you know how to operate this kind of business?”
+
+Ms. Chase snorts. “It isn’t exactly rocket science,” she says, “But it helped that I still had my connections back when I was on the crime beat. I had developed an extensive list of sources willing to help me.” Ms. Chase looks at her watch. “And, that’s three,” she says. “I gave you a few questions for free since they were technically helping me answer your last one,” she adds conversationally.
+
+You look around nervously for any possible escape, but you see nothing. Your heartbeat slams in your chest as Ms. Chase re-aims the gun at your chest and says, “Goodbye, Jessica, it’s been fun!” Then she pulls the trigger.
+
+But at the same time, Zack pushes you away, and the bullet hits him in the ribs. As he cries out and falls to the floor, you quickly run to Ms. Chase and shove her in the chest with all your might. Her feet slip on the icy floor, and she falls to the ground, stunned.
+
+Quickly, you rush to Zack and help him up. “Get the gun!” he yells. But as you turn around, Ms. Chase’s hands close over the pistol where it had clattered to the floor.
+
+“No time!” you scream and help him up the metal rungs.
+
+Zack manages to struggle up the ladder as Ms. Chase holds a hand to her head, blood streaming down one side where it had hit the floor. “I’m going to kill you!” she yells and tries to stand up.
+
+The metal rungs are slick with blood as you climb up the ladder, but the cold makes it stick to your fingers, and your skin tears a bit as you rapidly climb.
+
+You meet Zack at the top of the stairs and see him sway on his feet. Putting your arm around him, you hobble together towards his truck as quickly as possible. Behind you, you hear Ms. Chase struggle up the ladder.
+
+A few yards away from the truck, you hear Ms. Chase yell out, “Got you!” and a shot rings out. You feel the bullet whizz past your ear. Fear propels you forward faster, but now Zack is beginning to lose consciousness.
+
+“No!” you scream, “Zack, stay with me! We’re almost there!”
+
+As you reach the cab door of the truck, Zack's head starts to lean against yours. “Get my keys,” he says through gritted teeth. “You have to drive!”
+
+You want to protest, but there’s no time. You reach into his pocket and quickly pull out the keys to the pickup. You click the button to unlock the door, and you half-help, half-shove Zack into the passenger seat. Then you run around to the other side of the truck and hop into the driver’s seat.
+
+“Oh, God!” you think. “I don’t think I can do this!”
+
+*if learned_stick
+  *goto_scene section71
+*else
+  *goto_scene section62

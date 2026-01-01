@@ -1,0 +1,47 @@
+*comment section128
+
+You look at her, the blood draining from your face. "Um, no," you say finally.
+
+"How many times do I have to repeat myself?" Ms. Chase asks, "Always. Get. A recording!"
+
+You flush, embarrassed, and wishing you could crawl through the floor.
+
+"Your deadline is tomorrow, Jessica," says Ms. Chase. "Your copy better be on my desk by then. Now get out!"
+
+Quickly, you grab Charlie and flee the classroom.
+
+Ten minutes later, both of you are sitting on a lunch bench in the junior quarter and discussing what needs to happen next.
+
+"Jessi," says Charlie, "you need to finish that cliques article or Ms. Chase is going to kill you."
+
+"I know," you say, "but I can't give up on Kylie yet. You heard Nyx. Her life may be in danger."
+
+Charlie sighs and says, "So what do you want to do?"
+
+You pull out the photographs you took from Nyx's trailer and examine them again. You point to the one with the barn. "I've seen this car before," you say. "It was here at the school parking lot. It's too much of a coincidence that Nyx had a photo with that exact car hidden in his closet."
+
+"Maybe it's his," suggested Charlie.
+
+"Uh-uh," you say, shaking your head. "Nyx drives an SUV. This belongs to someone else. And check out the make. It's a Porsche. Tell me that's not a car a drug dealer could afford."
+
+"Wait a minute," says Charlie, "that barn looks familiar. It's from the old MacReady farm off of Lakewood Drive. Kids used to go and have parties there in our parents' day."
+
+You vaguely remember something about that. "But that family doesn't live here anymore. Who owns it now?"
+
+"And who owns that car?" asks Charlie.
+
+"It's too bad we can't run a license plate check down at the DMV," you say, "Only the police are allowed to do that."
+
+Charlie looks at you. "There may be a way around that," he says.
+
+"How?" you ask.
+
+"Well," he says, "There is a reason I'm an honorary member of the Geek Squad. But we'll have to get help from Tobias Kennedy."
+
+You look at him and sigh. "Okay," you say, "Let's hit him up."
+
+*if interviewed_geek = true
+  *if trust_toby >= 1
+    *goto_scene section24
+  *goto_scene section129
+*goto_scene section31

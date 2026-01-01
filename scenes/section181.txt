@@ -1,0 +1,42 @@
+*comment section181
+
+Your hands shake as you dial. The numbers blur for a second, then the call connects.
+
+“911, what’s your emergency?”
+
+You force the words out. “This is Jessica Lane. I have information—evidence—about Kylie Addams and Nyx Poulson. They’re in danger at the MacReady Barn.”
+
+The dispatcher keeps you on the line until two officers arrive outside the school fifteen minutes later. They take your statement while you hand over Declan’s screenshot, your notes, and Toby’s trace on the Porsche.
+
+The officers nod and thank you, promising to check it out immediately.
+
+That night, you sit with your friends in silence, every vibration of your phone making your chest clench. Finally, after what feels like hours, you get a text:
+
+Police report: Officers conducted a drive-by. No signs of forced entry. Barn locked up. They will need a warrant.
+
+Your throat goes dry. A warrant? You know in your bones that time is slipping through your fingers.
+
+Two days later, the news breaks. The MacReady Barn was searched after a warrant finally came through. What they found freezes the town with horror: A hidden basement beneath the barn, filled with chemistry equipment and sacks of white powder.
+
+The frozen bodies of Kylie Addams and Nyx Poulson, preserved in the cold of a secret cellar. No sign of their killer. And no evidence linking anyone to Janet DiAnglia.
+
+The case fizzles out within weeks. Without proof, the story goes nowhere. Rumors multiply. The truth dissolves into whispers.
+
+Back at school, the fallout hits harder than you expect. Ms. Chase calls you into her classroom one afternoon. She’s kind on the surface, but her eyes are cool.
+
+“Jessica, I think it’s best if you step down from the Puma Post for now,” she says. “The Cliques article you promised never came through, and in journalism, deadlines matter.”
+
+You try to protest—about Kylie, about Nyx, about the evidence you risked everything to bring forward—but her expression doesn’t change.
+
+“I need writers who can deliver,” she says firmly. “I’m sorry.”
+
+You leave her classroom hollow, your press badge stripped from you.
+
+The days pass, but the ache doesn’t. Sometimes, late at night, you stare at the blank spot in your notebook where the Cliques article should have been. You imagine the words you could have written, the memorial Kylie deserved.
+
+But those words will never be read. Kylie and Nyx are gone. Janet DiAnglia has vanished. And the story of what really happened will never see the light of day.
+
+The End.
+
+*set endings +1
+*goto_scene ending

@@ -1,0 +1,32 @@
+*comment section124
+
+Jonas storms out of the gym, his sneakers slapping hard against the concrete. His voice from moments ago still echoes in your head — the rushed, panicked words of someone finally cracking.
+
+"Jonas, wait!" you call, your breath coming fast as you chase him down the dim corridor by the bleachers. The air smells faintly of sweat and dust, the muffled shouts of football practice bleeding in from outside.
+
+He slows but doesn't turn. His shoulders shake as though he's holding something in. You catch up, laying a hand gently on his arm.
+
+"I'm not here to ruin you," you say quietly. "I just want the truth. That's all Kylie wanted, too."
+
+For a long moment, he doesn't answer. Then, with a ragged sigh, Jonas pulls his phone from his pocket. His hands tremble as he unlocks it, flips to the voice recorder, and hits record.
+
+"My name is Jonas Riley," he says, voice rough but steadying. "I stole from the school fundraiser accounts. I took the money. Kylie found out, but she never tried to seduce me. She was trying to make me do the right thing. She wanted me to come clean."
+
+He swallows hard, blinking back something that looks suspiciously like tears. "That's the truth. And I want it on record."
+
+He stops the recording and shoves the phone back in his pocket. Then his eyes meet yours, raw and pleading.
+
+"Please, Jessi… whatever you do, don't print anything about Mackenzie's abortion. She's been through enough. And please wait until I can try to make things right with Mackenzie before you print it. Promise me."
+
+Your heart squeezes. You nod slowly, gripping your notebook tighter. "I promise."
+
+Jonas nods once, a shaky exhale leaving his chest. For the first time, he looks lighter, even as the weight of his confession lingers between you.
+
+Slowly, you wave goodbye and leave to meet Zack in the parking lot.
+
+*set recorded_jonas true
+*set trust_jonas +1
+*if talked_to_garcia
+  *goto_scene section46
+*else
+  *goto_scene section51

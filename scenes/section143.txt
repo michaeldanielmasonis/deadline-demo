@@ -1,0 +1,45 @@
+*comment section143
+
+Your heart hammers in your chest like it might break through your ribs. For a long moment, you just stare at the empty truck parked at the edge of the lot, your breath fogging in the cool air.
+
+You could go back inside. Pretend none of this ever happened.
+
+But Kylie’s name burns at the back of your mind like fire.
+
+You swallow hard, jog to the back of Zack’s truck, and ease the tailgate open. The hinges squeak faintly, loud in the still night, and you freeze, listening. No footsteps. No shouts. Only the distant thrum of music and laughter from the dance hall.
+
+Slowly, you pull the duffel bag free. It’s heavier than you remember, Abbey’s pry bar and tools clanking dully against each other inside. You sling it over your shoulder, the strap biting into your skin, and tuck a flashlight into your pocket.
+
+The pickup sits there like a useless monument. Without Zack’s keys, it might as well be a dead weight.
+
+“Guess it’s just me,” you whisper, and the words vanish into the night.
+
+After changing into your “ninja” gear, you set off down the gravel road, your shoes crunching in rhythm with your pounding pulse. The trees crowd in on either side, branches whispering above your head. Each step away from the safety of the parking lot feels heavier, more final, but also more certain.
+
+The air grows colder as you go. The smell of earth and hay drifts in on the breeze, faint but growing stronger — a sign that the MacReady Barn isn’t far. The night presses close, swallowing the sound of the dance until all you hear is your own breathing and the distant cry of a night bird.
+
+The barn looms ahead in the distance, a hulking black shape against the moonlit sky. Alone, armed only with Abbey’s tools and your own determination, you keep walking toward it.
+
+Because if Kylie’s out there, waiting — you can’t afford to turn back now.
+
+The hike to the barn is tense, every cricket chirp magnified in your ears until it feels like the whole night is alive and watching. The grass is damp beneath your shoes, soaking your ankles as it drags across your legs. A low fog curls at the ground, and the barn looms closer with every step, a hulking black mass that seems to swallow the sky itself.
+
+The air changes as you near it — damp and foul, the sharp tang of rust mixing with the sour stench of mildew and rotting hay. You tighten your grip on the flashlight, its beam trembling with the shake of your hand.
+
+You circle the structure slowly, each step deliberate, careful. The boards are weathered and splintered, gray with age, some warped enough to leave thin slits into the darkness beyond. Nails jut out like teeth, and cobwebs shimmer silver-white in the light of your torch.
+The silence presses closer with every second. You stop, breathing hard, the duffel heavy on your shoulder. After several minutes of searching, you know the truth: there’s no easy way inside.
+
+You shine the beam across the barn doors — heavy wood reinforced with a thick, rusted lock that looks stubborn enough to defy reason. Then across to a boarded-up window, the planks nailed so tight you’d have to tear them apart one by one.
+Both options glare back at you in the dark, equally unforgiving.
+
+You’re alone. No Zack to whisper advice, no Charlie to crack a nervous joke, no Abbey to lend you courage. Just you, your tools, and the choice waiting like a blade.
+
+Neither path looks good. But if you’re going to find Kylie, you’ll have to choose.
+
+What do you do?
+
+*choice
+  #Pry open the boards over one of the windows.
+    *goto_scene section147
+  #Break the lock over the barn doors.
+    *goto_scene section148

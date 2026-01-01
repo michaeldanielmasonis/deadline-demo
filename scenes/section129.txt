@@ -1,0 +1,33 @@
+*comment section129
+
+You and Charlie make your way to the Geek Squad's hang out spot when they are not at their corner of the cafeteria during lunch. You hope they are still as friendly towards you as they were the last time you left them.
+
+The computer lab smells faintly of old pizza and overheated circuitry. Screens glow in the dark like a wall of watchful eyes, casting neon light across rows of keyboards. Charlie clears his throat beside you as the Geek Squad swivels lazily in their chairs to face you.
+
+"Greetings, Blah," he says, then he looks over to your friend. "'Sup, Charlie? Why are you here?"
+
+You roll your eyes at his rudeness, but smile. "We have a request," you begin, but Charlie interrupts.
+
+"What she means," he says, "is that we have a top priority mission for your crack squad, should you choose to accept it. We need black ops intel on the owner of this vehicle," Charlie holds up the photo, "a 2012 metallic gray Porsche, New Jersey plates, number G62012, and we need it yesterday. The life of an innocent girl could be at stake."
+
+Toby leans back, arms crossed, a smirk tugging at the corner of his mouth. His glasses reflect the scrolling code on his screen.
+
+"You want me to trace a license plate?" he says. "For you?" He chuckles. "Look, we gave you the interview you needed for the article, but I'm afraid you don't have the points for that kind of request."
+
+Charlie shifts awkwardly. You can almost feel his unease radiating through the stale air.
+
+You square your shoulders. "Look, I know you don't owe us anything. But this silver Porsche could be the key to finding Kylie. If you're not going to do it for me, do it for her."
+
+Toby tilts his head, unimpressed. "Words are cheap, Blah. Why should we stick our necks out?"
+
+The room is silent except for the hum of cooling fans. You realize you'll need to give the Squad a reason — something real — if you want their help.
+
+What do you do?
+
+*choice
+  #Bribe them with snacks and energy drinks.
+    *goto_scene section130
+  #Appeal to their pride.
+    *goto_scene section131
+  #Appeal to their humanity.
+    *goto_scene section132

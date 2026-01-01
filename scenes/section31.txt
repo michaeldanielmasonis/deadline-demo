@@ -1,0 +1,33 @@
+*comment section31
+
+As you approach Toby, he looks up from his laptop and shakes his head. “Whatever it is you want, I’m not interested,” he says.
+
+Charlie takes out the photo of the barn and says, “We have a mission for you, Toby--”
+
+“Can it, Charlie!” Toby snaps. “Take your Blah and go home.”
+
+Charlie looks at him, stunned. “What? Why are you being like this?”
+
+Toby looks coldly at Charlie, then at you, “Because I’m just a sociopathic gamer, remember?”
+
+Startled, you remember your angry words to Toby a couple of days ago. “Look,” you say quickly, “I’m sorry I called you that. I really am. It was wrong. But you have to help us--a girl’s life is at stake!”
+
+“Have to?” repeats Toby. “I have to do nothing. And that is what I intend to do. Goodbye, Blah. Don’t let the door hit you in the ass on the way out.” And with that, he turns back to his laptop and puts on his headphones.
+
+You plead with him and the others around you, but they steadily ignore you.
+
+Charlie pulls you away and says, “Come on, we’ll just have to try the police again.”
+
+Which is what you do, but it takes another day to get hold of Detective Garcia.
+
+“I’m sorry,” she says, “My phone was damaged, and I didn’t know you called until just now. What can I do for you?”
+
+Very quickly, you explain the events. Detective Garcia takes your statement. She believes your story and urges you to stay safely home while she tracks down Nyx and the owner of the Porsche, someone named Janet DiAnglia.
+
+But that’s when things go south. A day after your interview with the police, Nyx is discovered dead from an overdose, and all possibilities of discovering DiAnglia’s true identity vanish. After that, the investigation for missing Kylie fizzles out.
+
+Years later, you still often wonder with a certain sadness what had really happened to Kylie Addams and what might have happened had you not lost your temper with the Geek Squad. But the only way to discover that would be to start the book over and try again.
+
+Then End.
+
+*goto_scene ending

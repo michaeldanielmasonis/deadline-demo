@@ -1,0 +1,45 @@
+*comment section7
+
+At seven pm, sharp, there is a knock at your front door. Before your mom can answer it, you run down the stairs. “I’ve got it, Mom!” you scream at her and throw the door open.
+
+Zack Jayson stands in front of you, looking like a beautiful, pale, black knight. He’s wearing an all-black ensemble with a collarless button-up, jacket, and pants, complete with black cowboy boots and hat. He stands in your doorway at a self-assured angle, with one hand in his pocket and the other holding a bouquet of roses towards you. “Wow!” you think, “he looks so gorgeous, it should be illegal.”
+
+But the flowers in his hand droop as he takes a look at you, his mouth open and his gaze wide. As he takes you in, he gulps. But then he recovers and his confident smile is back. “You are stunning,” he says, and hands you the flowers.
+
+You blush and look to the ground. “Please,” you say shyly, “stop teasing me!” But you do look good. You spent three hours attending to your toiletries and dressing to assure it. You smooth down your blue empire-style dress and shift your feet only a little awkwardly on your high heels. You don’t normally wear them, preferring comfort to style. As you brush a strand of hair that has strayed from your braided updo, Zack shakes his head.
+
+“Nope,” he says, “I’m definitely not teasing.” You blush again and try to look him in the eyes, your smile widening farther than you thought possible. “You ready to go?” he asks.
+
+You nod happily. “Yep,” you say, indicating the tightly packed duffle bag by the door.
+
+“Okay,” he says, “let’s go.”
+
+But before you can agree, your mom shouts, “No! Wait!”
+
+You look at your mom in surprise. “What?” you ask.
+
+“Let me get a picture of you!” she gushes, “You both look so good together!”
+
+Laughing, both of you agree, and soon you are on your way to the dance.
+
+The Carlton Heights Victorian Gardens are much more beautiful in the evening than it is in the day. The dance hall invites you closer with the twinkling of fairy lights in the trees and shrubs. There is even a horse and carriage out front for moonlit rides. In stark contrast, the blast of rave music pulses from the open doors.
+
+You quickly find your friends and stow everything away in the back of Zack’s pickup truck. Then you make your way into the dance hall, getting ready to mingle before you rendezvous with your friends back at the truck at nine.
+
+You and your friends visit with people, visit the snacks table, and dance with each other, generally having a good time.
+
+*image lets_dance
+
+But when the first slow dance comes on, Zack pulls you away from the others and claims you for himself.
+
+As you put your arms around him and sway to the music, you can’t seem to stop staring at him and smiling. The heat between the two of you is electric.
+
+As the music swells to a crescendo, Zack’s lips come close to yours, and your head tilts up in anticipation. Softly, Zack brushes your lips with his, and you kiss sweetly, but intensely.
+
+After a moment, you break away and you blush furiously. “Okay,” you say when you recover, trying to put some distance between you and whatever it is you are sharing with Zack, “enough of that business. I think we have a missing teenager to find.”
+
+Slowly, Zack nods, looking unsettled himself. “Right,” he says, “let’s do this.”
+
+*set kissed_zack true
+*achieve vampire_cowboy_fangirl
+*goto_scene section45

@@ -1,0 +1,38 @@
+*comment section184
+
+Garcia’s eyes narrow as you spill everything out—Declan’s warning, Toby’s Porsche trace, Kylie’s desperate draft message. Your words tumble out too fast, too frantic, and when you finish, silence stretches like a noose.
+
+Finally, Garcia leans back in her chair, folding her arms. “Jessica… I’ve told you before. This isn’t your game. You already stuck your nose where it didn’t belong, and now you expect me to chase ghosts on a teenager’s hunch?”
+
+“I’m not making this up!” you blurt, panic rising in your throat. “Kylie and Nyx—they’re in danger. I know it.”
+
+Her face hardens. “You might believe that, but belief isn’t evidence. You’ve been a distraction from day one. I’ll have a uniform swing by the barn, but don’t expect miracles. And you—” she points a finger at you, sharp as a blade—“you go home. Stay out of this.”
+
+Your chest sinks like a stone. She doesn’t believe you.
+
+That night, squad cars roll slowly down the dirt track to the MacReady Barn. Officers sweep the exterior with flashlights, rattling doors and peering through slats. Everything looks locked up, silent, and still.
+
+“Empty,” one mutters, scribbling in his notebook. They drive away without forcing entry.
+
+By the time a warrant is signed days later, it’s too late.
+
+The hidden cellar beneath the barn reveals what you feared most: the bodies of Kylie Addams and Nyx Poulson. The drugs, the equipment, the ledgers—all there, but cold, damning proof of a crime already finished.
+
+No trace of Janet Di’Anglia. No trail left to follow.
+
+Back at school, the story spreads like wildfire, whispered in hallways and shouted on social media. Kylie becomes a tragic cautionary tale, Nyx a lost cause never redeemed. And you—
+
+Ms. Chase calls you into her office, her smile tight and thin. “Jessica, I’m afraid you’ve proven yourself unreliable as a columnist. Failing to turn in the Cliques article was bad enough. But meddling in a police investigation? That’s unacceptable.”
+
+She removes you from the Puma Post with a neat stroke of her pen.
+
+As you walk out, clutching the notebook that now feels like dead weight, a hollow ache fills your chest. You tried. You knew. But it wasn’t enough.
+
+And Kylie and Nyx are gone.
+
+The End.
+
+*achieve worst_ending
+*set endings +1
+*goto_scene ending
+

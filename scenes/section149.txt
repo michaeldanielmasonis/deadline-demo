@@ -1,0 +1,37 @@
+*comment section149
+
+You drop to the dirt floor with a muffled thud, dust rising in a choking cloud around you. For a moment you stay crouched, ears straining for any sound beyond your own breathing. The barn is silent, save for the faint creak of rafters shifting in the night air.
+
+Your flashlight cuts through the dark, beam gliding across warped wood and cobwebs that shimmer silver in the light. The place smells of mildew, rust, and old hay — a sharp, sour mix that makes you wrinkle your nose.
+
+Then you see it: a massive, lumpy silhouette in the middle of the floor, hunched under a black tarp.
+Your stomach flips. Alone, the sight feels both like a discovery and a dare.
+
+You force yourself forward, shoes crunching on grit. The tarp’s coarse fabric rasps under your fingers as you pinch the edge and peel it back. Dust billows out, sharp with the smell of oil.
+
+Cold metal gleams beneath.
+
+You pull harder, the tarp slithering down to reveal sleek lines, unmistakable even in the dim light. The metallic gray Porsche. The same one from Nyx’s photograph.
+
+Your flashlight beam dances to the plate — the numbers gleam back at you, undeniable proof.
+
+A rush of triumph surges through you. You did it. You found it.
+
+The thrill fades when you tug on the handle. Locked.
+
+You let out a shaky sigh, frustration flooding in. Alone, the silence feels heavier, almost mocking. You glance around the cavernous barn, the dark corners pressing in, and mutter to yourself, “Now what?”
+
+Your crowbar is heavy in your hand, the option obvious: break a window, force your way inside. But the thought sends your stomach sinking — the shattering glass, the blaring alarm, the noise rolling across the fields.
+
+Your flashlight beam skitters nervously around the barn again. Crates. A rusted ladder. Shadows thick as tar in the corners you haven’t searched.
+
+The Porsche isn’t the only secret hiding here.
+
+What do you do?
+
+*choice
+  #Break into the car.
+    *goto_scene section153
+  #Continue to search the barn.
+    *goto_scene section154
+
