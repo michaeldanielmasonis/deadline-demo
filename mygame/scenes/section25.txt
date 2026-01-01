@@ -1,0 +1,30 @@
+*comment section25
+
+After Charlie drops you off at home, you get a call from Abbey, who says her mom is working late and then asks if she could come over and have dinner with you. Your mom approves, and soon you and Abbey are in your room chatting away.
+
+When your mom calls you to dinner, Abbey is going on about the school dance coming up.
+
+“You have to come this time,” Abbey exclaims, “the seniors left me in charge and I have made some outstanding new additions to the venue!”
+
+“Like what?” you ask, crossing your arms in mock disbelief.
+
+“Like fairy lights in the garden, a carriage ride around Lake Carlton, a live band instead of a DJ!”
+
+“Ooh,” says your mom, setting down a plate of meatloaf. “That sounds romantic! Is this happening at the school?” she asks.
+
+Abbey shakes her head. “No, this is at the Carlton Heights Victorian Gardens.”
+
+You look at your friend in surprise. “I thought they shut that place down?”
+
+Abbey shakes her head, “No, it’s reopened under new management. It’s the only reason we can afford it.”
+
+“Oh, yes, I’m the agent who managed the sale on that one,” says your mom. “Some mysterious buyer thought they could restore the place and then flip it for a quick profit to one of those resort timeshare companies. I told them the place is a money trap and not to put their hopes in it, but they didn’t listen.”
+
+What do you want to do with this information?
+
+*choice
+    #Nothing, it’s not important.
+        *goto_scene section102
+    #Ask Abbey to help investigate.
+        *goto_scene section103
+

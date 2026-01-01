@@ -1,0 +1,33 @@
+*comment section22
+
+“Thanks,” you say to Zack, “but I’d rather walk home. It’s a pretty nice day out.”
+
+“Oh,” says Zack with a look of disappointment. Then resentment replaces disappointment. “Is this about Kylie and the police?” he demands.
+
+You are surprised at his directness, but you quickly cover it. “No,” you say, “not on my part, anyway.”
+
+“Then why?” he asks.
+
+You sigh. “It’s complicated. My mom has been really overprotective since the divorce.”
+
+“I didn’t have anything to do with Kylie’s disappearance, you know.” His eyes look at you with a pleading look, “She’s my friend. My only friend.”
+
+You walk over to the truck. “I believe you,” you say as you look him in the eyes. “I am worried about her, though. I’m trying to find out what happened to her, to see if I can help.”
+
+Zack looks over at you. “I’m not sure you can do anything about that,” he says thoughtfully. “Mackenzie already ruined Kylie for trying to help Jonas with some kind of problem he was having. But if you want to know where she has gone,” he says finally, “you might want to ask Nyx. I think they were seeing each other.”
+
+Your mind reels from the information. “Kylie is gone? Meaning she’s left or run away? Mackenzie ruined Kylie for trying to help Jonas? With what? And Nyx! What connection could that stoner and Kylie have with one another?”
+
+You notice Zack staring at you, and you blush slightly.
+
+“Listen,” he says, “if you’re not going to let me give you a ride, then I have to go.”
+
+“Oh,” you say. “Of course, sorry.” As you pull away from the driver’s door, you try again. “Hey, I’m sorry if I sound suspicious of you. I really am not. And I’d still like to be your friend. Will you come see me at school? I’d really like to introduce you to my friends.”
+
+Zack nods after a moment. “Sure,” he says, “Maybe I will.” He gives you a sad smile and slowly pulls back out onto the highway and takes off down the road.
+
+You sigh dramatically and wonder what would have happened if you had gotten in his truck. You have a long time to ponder it as you walk the remaining three miles back home. Well, ponder that and Kylie Addams.
+
+*set trust_zack -1
+
+*goto_scene section19

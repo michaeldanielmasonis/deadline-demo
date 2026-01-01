@@ -1,0 +1,56 @@
+*comment section123
+
+"You're right, Zack," you say carefully. "I should go to the police. But I won't give up on the story. Kylie needs every person she can working on this case, and I know that we can make a difference."
+
+You say goodbye to your friends, and Zack volunteers to walk you to where Detective Garcia has set up shop in the counselor's office.
+
+Zack knocks on the door. "Detective Garcia?" he asks.
+
+The policewoman looks up wearily from the desk, several notes scattered across it, a half-empty coffee cooling nearby. Her sharp eyes settle on you, and her expression hardens.
+
+"Well, if it isn't my eavesdropper from this morning," she says. "I hope you're here for something other than pressing your ear against my windows."
+
+Heat prickles across your face. "Yes, ma'am. I am."
+
+Zack clears his throat. "This is my friend Jessica Lane. She may have some information on Kylie Addams that could prove useful."
+
+Garcia sighs but rises from her chair, extending a hand. "Come in," she says, her tone clipped. She gestures toward the seat across from her desk.
+
+"Thanks, Detective Garcia," you murmur as you sit.
+
+"Please," she says. "Call me Jackie."
+
+"Thank you, Jackie." You pull out the folded note, its creases trembling between your fingers, and set it on the desk. Starting from the beginning, you tell her everything you know about Kylie Addams and the threat that was delivered.
+
+Garcia studies the note for a long time, her jaw tight. Finally, she exhales. "I'll admit, I have my doubts about this. Given your… earlier behavior, Jessica, I'm not sure how much weight I can put behind this without corroboration." Her eyes lift to yours, sharp and unyielding. "Still, a threat is a threat, and I'll act on it. Don't mistake my skepticism for inaction."
+
+You nod, biting back the sting of her words.
+
+Garcia softens only slightly as she leans back in her chair. "You're a very good investigator — I can see that. But I advise you to leave this to the professionals. Don't worry. We'll find Kylie."
+
+You nod noncommittally and leave the office, finding Zack waiting in the hall.
+
+"How'd it go?" he asks.
+
+"Okay," you say, adjusting your notebook under your arm. "But we've got work to do."
+
+Zack grins faintly. "So, where to next?"
+
+"Jonas," you answer. "I don't think he's heavily involved anymore, but we need to find out from him what really happened with Kylie on the night of the party. At the very least, we need to eliminate him as a suspect. Plus, he'll probably be an easier nut to crack than Nyx at this point."
+
+"Makes sense," Zack says. "Let's get to it."
+
+You shake your head. "Thanks, Zack, but Jonas is extremely flighty right now. I don't think he'll talk if it's both of us."
+
+"Okay," Zack says. "I'll wait for you in the parking lot and give you a ride home if you'd like."
+
+You smile. "I'd like that."
+
+"Cool. Call me if you need me."
+
+Zack heads off, and you look determinedly toward the football field, where practice should be starting soon. The shouts of players already drift on the evening air.
+
+"You won't escape me this time, Jonas," you think.
+
+*set talked_to_garcia true
+*goto_scene section15

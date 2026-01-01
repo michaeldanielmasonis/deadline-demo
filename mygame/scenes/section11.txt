@@ -1,0 +1,23 @@
+*comment section11
+
+"Ugh!" you think, "History is so boring!" And with that thought, you mentally ditch the class and begin sketching a plan for convincing Ms. Chase to let you cover the story.
+
+As Mr. Hudson begins his lecture about some really old historical matter, you realize very quickly that the stuff about Kylie is pretty much just a rumor at this point. The key to convincing Ms. Chase would be to get some real facts about the story. Things that represent an issue that is pertinent to the whole school, not just some relationship scandal. "This isn’t a gossip rag!" you can hear Ms. Chase say—a proclamation she often makes at many of the students’ story ideas. "This is a professional disseminator of news!"
+
+Your mind keeps coming back to Zack. "Zack and Kylie," you muse, "such a strange relationship! What’s the connection?"
+
+You begin to reflect on what pale, but sexy Zack would want with an innocent girl like Kylie. He has bad boy written all over him. Very few people know about his past. All the girls swoon in his presence. And it’s true that he avoids the sun. "Maybe he does have a vampire harem." Then you think about it. "Hm, that’s a lot of vampire fangirls."
+
+Suddenly, you realize that Mr. Hudson has just called on you. Flushed, you ask him to repeat the question.
+
+Mr. Hudson frowns. "I asked you, ‘What is one of the primary explanations the Southern States gave for wanting to secede from the Union?’"
+
+"Oh, that’s easy," you bluff. Desperately, you try to think of an answer.
+
+*choice
+  #Say you don’t know.
+    *goto_scene section13
+  #Say, "All the vampire fangirls!"
+    *goto_scene section89
+  #Say, "They hated slavery!"
+    *goto_scene section20

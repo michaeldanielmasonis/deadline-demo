@@ -1,0 +1,19 @@
+*comment section89
+
+The class bursts into laughter, and Mr. Hudson tightens his lips into a deep scowl and crosses his arms. After your classmates quiet down, he raises an eyebrow and asks you what exactly you meant by your "unorthodox answer."
+
+"Mr. Hudson! I can't believe you didn't see the movie Abraham Lincoln: Vampire Hunter!" you grin. "Well, it's more of a documentary than a movie, really. Didn't you know the American Civil War was about fighting off hordes of vampire enslavers?" You shake your head and tsk. "And you call yourself a history teacher!"
+
+The class bursts out into laughter again, and even Mr. Hudson is hard pressed to maintain his glare. Finally, he sighs and shakes his head. "I'm afraid you're tremendously misinformed, Miss Lane. Abraham Lincoln was not a vampire hunter. He was a lawyer and the president. And the only undead thing around here will be your grades unless you begin to pay more careful attention in class!"
+
+Your classmates let out a playful "Ooooh!" at the reprimand, and someone shouts out, "Oh, snap!"
+
+You let out another wide grin and salute your teacher. "Yes, sir, Mr. Hudson, sir. No more daydreaming about vampire secessionists."
+
+You decide to make good your word, and for the rest of the period, you make sure to pay attention to your teacher.
+
+*set cool +1
+
+*goto_scene section12
+
+

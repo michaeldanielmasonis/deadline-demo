@@ -1,0 +1,21 @@
+*comment section94
+
+You swallow down your resentment and try to change your mood for your mom’s sake. “Ready?” you ask, plastering a confident smile across your face, “I was born ready!”
+
+Mom seems to buy it, or at least pretends she does and nods her head with conviction. “That’s my girl!” she says, and then extends a hand to the radio as if offering a gift. “Your turn,” she proclaims.
+
+Quickly, you change the station and Aerosmith’s “Sweet Emotion” turns off mid-cry and is replaced instantly by Bruno Mars and Lady Gaga singing “Die with a Smile.” Giving a relieved sigh, you lean back into the seat and relax for a moment.
+
+Grateful for the attention being turned away from you, you listen absently to Mom drone on about her latest real estate conquest as she drives you to school. Something about a restored plantation style home with a cobblestone drive.
+
+As she slows down to turn onto the turnpike, she notices you are wearing your skirt today. Normally you wear jeans and a hoodie. Absently, she comments as she turns. “You look cute today, Jessi, but be careful of that skirt when you sit. It’s riding a little high and you don’t want to give the boys an eyeful.”
+
+How do you respond?
+
+*choice
+    #Ignore her and roll your eyes.
+        *goto_scene section95
+    #Protest.
+        *goto_scene section96
+    #Ask her about her work.
+        *goto_scene section97

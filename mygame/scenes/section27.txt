@@ -1,0 +1,24 @@
+*comment section27
+
+You have enough information. It is time to get writing.
+
+Back in your room, the glow of your laptop bathes the desk in pale blue. You spread your notes around you like puzzle pieces: scribbled quotes on loose-leaf, smudged doodles in the margins, half-transcribed voice memos. The air smells faintly of the vanilla latte your mom reheated downstairs, mixing with the ink of your pen.
+
+You flex your fingers and start typing, drawing on Kylie’s example like a lifeline. Her courage — her refusal to stay silent, even when it made her vulnerable — shapes every sentence.
+
+You piece in fragments from the voices you collected. The Glitterati’s Mackenzie, brushing her hair back as if she were on stage, whispering, “People think we have it easy. They don’t see the pressure. If one of us slips, it’s like blood in the water.” The Geek Squad’s Toby, adjusting his glasses while saying with quiet pride, “We don’t just build computers; we build each other up. Sometimes we’re the only ones who do.” Abbey, reluctant but honest, murmuring, “Maybe being a Blah just means you’re… everyone else. And maybe that’s okay. Because without us, who are they even trying to impress?”
+
+Every quote feels like a shard, sharp and incomplete, but together they form something larger. You weave them into a column meant to cut past stereotypes, to show how each clique carries its own hidden truths — and how Kylie, in her strange, brave way, touched them all.
+
+The words flow until you lose track of time. The clatter of keys fills the room, mixing with the patter of rain against your window. Your chest aches, but you refuse to cry. Not yet. Kylie isn’t gone. Not while there’s still a chance to find her.
+
+When the last sentence falls into place, you sit back, breathless. The column glows on the screen, alive with fragments of the people you spoke to, bound together by Kylie’s example. You save it to your flash drive with a trembling hand.
+
+“There,” you whisper to yourself. “Let Ms. Chase complain about that.”
+
+*set article_finished true
+
+*if became_death_eater
+  *goto_scene section43
+*else
+  *goto_scene section202

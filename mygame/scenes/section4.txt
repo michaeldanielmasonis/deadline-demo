@@ -1,0 +1,21 @@
+*comment section4
+
+The next day, you and your friends attend the memorial service for Kylie Addams and Nyx Poulson. It is a sad but moving affair. Kylie's mom thanks you for everything you did for her daughter, and you try to dismiss it, since you felt you were too late to save her. But her mom won't hear any of it. "My Kylie's in heaven now," she says, "and her killer is behind bars. You are God's angel to us." You cry at her words.
+
+The only person to show up from Nyx's side is his Aunt Judy, who embraces you. "He always had to take the hard road," she says with tears in her eyes, "but in the end, he tried to do right. I hope that's enough."
+
+*achieve gods_angel
+
+Afterwards, you and your friends go to the Dairy Queen and exchange stories. Abbey and Charlie tell you how they had convinced Mr. Hudson to call the police station and ask for Detective Garcia, and how easily she was persuaded to come. You, in turn, then tell them about finding the drug lab and the harrowing escape in the pickup truck. And your sorrow at discovering you were too late to save Kylie.
+
+Zack tries to turn the situation lighter by joking about your driving skills.
+
+"You say that now, you cowboy hat-wearing vampire wannabe, but my driving skills saved your butt!" you shoot back.
+
+Your friends laugh, and you do too, adding, "But the best part is that once my mom learned what would have happened if Zack hadn't taught me how to drive, she immediately enrolled me in a driver's education course. I'm going to be a licensed driver, guys!"
+
+Your friends applaud you, and you smile broadly and laugh in triumph.
+
+Much later, you discover that nothing ever came from Jonas and Mackenzie's crime of stealing the Booster Club money. And no apology was issued by them to abate the rumors that Kylie had attempted to steal Mackenzie's boyfriend on the night she had disappeared. To this day, it fills you with regret when you think of it. The only good thing that seems to have come from it is that both Jonas and Mackenzie moved quietly away over the summer and were never heard from again. All kinds of rumors accompanied their disappearance, but you can't help but wonder if it had something to do with the money that was stolen.
+
+*goto_scene section91

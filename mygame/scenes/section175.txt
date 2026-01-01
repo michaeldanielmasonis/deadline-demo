@@ -1,0 +1,41 @@
+*comment section175
+
+The clatter of Declan’s wrench echoes in the auto shop as you hover just inside the door. He doesn’t glance up, so you swallow your nerves and step closer.
+
+“I talked to Nyx once,” you say carefully, your voice carrying across the smell of oil and sawdust. “About Kylie. He seemed… worried. And now, after everything that’s happened, I can’t stop thinking about him. About her. About how these cliques unite us in some ways, but drive us apart in others. I thought maybe you could help me understand.”
+
+Declan freezes for half a beat before straightening from under the Camaro hood. His face is sharp in the work light, eyes narrowed but searching yours. “Nyx doesn’t usually talk to outsiders.”
+
+You nod. “I know. That’s why it mattered. And I think Kylie mattered to him, too. I just… I want to hear the truth about what it means to be called a Delinquent, not the rumors.”
+
+For a long moment, silence hums between you, filled only by the tick of cooling metal. Then Declan sighs and tosses the rag onto the workbench. “Truth, huh? You sure you’re ready for it?”
+
+“Yes,” you say without hesitation.
+
+He studies you another moment before leaning back against the car, crossing his arms. “Being called a Delinquent—it’s not a choice, not really. It’s a label people slap on you when you don’t fit their neat little world. One fight. One bad grade. One night you ditch class because you can’t take another lecture from some teacher who doesn’t even remember your name. Suddenly you’re trash. You’re dangerous. And it sticks. No matter what you do, it sticks.”
+
+Your notebook trembles slightly in your hand, but you don’t look down to write. You keep your eyes on him. “That sounds lonely.”
+
+He lets out a humorless laugh. “Lonely? Yeah. But it’s more than that. It’s like walking around with a target on your back. Teachers expect you to fail. Parents tell their kids to stay away. And sooner or later, you start living down to it. ‘Delinquent’ becomes who you are because it’s all anyone will let you be.”
+
+His voice catches for just a second, and then he shakes his head. “But Kylie… she was different. She didn’t look at me like a problem to fix. She just… saw me. Like I was still human. She once brought me notes from a class I’d ditched, and instead of calling me out for it, she just said, ‘You’re smarter than you think you are.’ Nobody had ever said that to me before.”
+
+Your throat tightens. “She believed in you.”
+
+Declan nods once, sharply. “Yeah. And she paid for it. People mocked her for hanging out with us. But she didn’t care.” His gaze hardens again, though not at you—at the world outside. “She deserved better than what she got.”
+
+You let the silence linger, heavy with his words, before whispering, “Thank you, Declan. That matters.”
+
+He shrugs, turning back to the Camaro. “Don’t make me regret talking. If you’re gonna write about me, about us, tell it straight. No sugarcoating. No pity.”
+
+“I promise,” you say.
+
+Your phone buzzes in your pocket, the screen flashing with Toby’s name. The license plate trace.
+The moment with Declan slips away as quickly as it came, but the words he gave you feel heavy, like treasure.
+
+*set interviews +1
+*set interviewed_delinquents true
+*achieve delinquents_interview
+*set cool +1
+
+*goto_scene section177

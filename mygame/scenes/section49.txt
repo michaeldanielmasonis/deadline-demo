@@ -1,0 +1,33 @@
+*comment section49
+
+The plan to brute-force the main doors feels suddenly stupid. “Let’s break the lock and go through the front,” you whisper, breath tight in your chest.
+
+“Okay,” Zack replies, and you hear the clink of metal as he pulls the mallet and chisel from the duffel. The night air is damp and smells faintly of hay; your flashlight throws long, nervous beams across weathered boards.
+
+You move like a shadow beside him, knees numb with cold. He wedges the chisel against the heavy padlock, sets his feet, and lifts the mallet high. The first strike rings out — a hard, metallic crack that cuts through the hush of the field. The echo rolls off the barn like a warning.
+
+“Crap!” you whisper too loudly, and your voice seems obscene in the dark. The lock has taken the first kiss of metal; a thin wedge gouges the bar but it holds. Zack breathes out and tries again.
+
+Each blow smashes the quiet, six, seven times, the mallet thudding, the chisel sparking faintly where it meets rusted steel. Your hands vibrate where you grip your flashlight. At last, with a metallic groan and a last, heavy stroke, the lock gives. The barn door yawns open with a long, protesting creak.
+
+“Finally,” Zack mutters, half-relieved, half-exhausted. “This place must be abandoned — we’ve probably woken every bat in the county.”
+
+The word dies in his throat.
+
+A sharp report explodes so close to you it makes your teeth ache. The sound is not the thud of mallet on metal but a crack of gunfire that throws the night into staccato motion. Zack jerks, falters forward, and collapses against the door which is splattered with his blood. He makes no sound that you can hear over the hammer in your ears; the air around him looks wrong — stiller, somehow — and he slides down to the grass.
+
+You scream without realizing your mouth is open. Before you can gather yourself, another shot slams into your shoulder. Pain flares hot and immediate, a white star that blinds your vision for a second. You stagger, hand flying to the spot. A red warmth soaks your glove — hot and terrifying — but you don’t look long. Your legs give, and you go down onto the gravel with a thud that throws dust into your face.
+
+Somewhere behind you, boots crunch on gravel, measured and deliberate. A shadow moves across the threshold of the barn and a figure steps into your flashlight’s cone. He or she is a silhouette with an animal stillness, heels or boots ringing in the darkness. The world narrows to the rasp of your breath and the pounding in your ears; everything else seems very far away.
+
+“Please—please don’t—” you gasp, trying to make your voice steady. You can taste metal and the bitter tang of panic on your tongue. Your flashlight slips in your fingers and rolls, the beam strobing across the barn’s rough boards.
+
+A final gunshot cracks the air. It feels too close, too final. Light clips off the figure, and then the night closes like a fist.
+
+Perhaps if you had made different decisions, you might have survived to discover who your killer might have been. But you can only do that if you start the book over from the beginning.
+
+The End.
+
+*set endings +1
+*set deaths +1
+*goto_scene ending

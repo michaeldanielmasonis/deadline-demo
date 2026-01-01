@@ -1,0 +1,24 @@
+*comment section199
+
+Much later, you discover that nothing ever came from Jonas and Mackenzie’s crime of stealing the Booster Club money. And no apology was issued by them to abate the rumors that Kylie had attempted to steal Mackenzie’s boyfriend on the night she had disappeared. To this day, it fills you with regret when you think of it. The only good thing that seems to have come from it is that both Jonas and Mackenzie moved quietly away over the summer and were never heard from again. All kinds of rumors accompanied their disappearance, but you can’t help but wonder if it had something to do with the money that was stolen. Kylie, strangely enough, just told you to forget about it when you mentioned it to her.
+
+“They have their own road to travel. And Jesus forgave me of my sins,” she said simply, “I can do no less for them.” You wonder what kinds of sins Kylie could possibly have committed. It didn’t seem likely she had any to you. But you shrug your shoulders and let it go. You’re just glad she’s alive.
+
+Later that evening, Madison High holds a celebration in the gym. Streamers and flowers cover the bleachers, but the mood is solemn as well as joyous. The principal takes the microphone and, after a long pause, announces:
+
+“Tonight, we honor Kylie Addams and Nyx Poulson—for their resilience. And we honor the students who risked everything to bring them home.”
+
+The applause rises like thunder, rolling through the gym. You sit with Zack, Charlie, and Abbey, humbled as wave after wave of cheers washes over you. Kylie and Nyx stand at the front, hands clasped, both still fragile but alive.
+
+When Kylie speaks, her voice trembles but does not break. “I wouldn’t be here without my friends—the ones who believed in me, and the ones who refused to let the truth stay hidden. Let’s promise each other to be braver, kinder, and better. For everyone.”
+
+The crowd rises to their feet, and for a moment, the cliques, the rumors, the dividing lines—all of it feels like it doesn’t matter anymore.
+
+You glance sideways at Zack. He catches your eye and squeezes your hand, and you know, deep down, that though scars remain, something new has begun.
+
+At times, you feel regret that you never got to write that Cliques article. But then you realize, isn’t it better to live life rather than to write about it?
+
+The End.
+
+*set endings +1
+*goto_scene ending

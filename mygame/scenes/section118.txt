@@ -1,0 +1,15 @@
+*comment section118
+
+Zack flashes you a quick grin, the kind that feels easy and unforced.
+
+“Hey,” he says. “Thanks for backing me up earlier. Not everyone would’ve done that.”
+
+You shrug, trying to play it cool. “Seemed like the right thing to do.”
+
+He nods, studying you for a moment. “Yeah. It was.”
+
+For just a second, the chaos around you fades, replaced by something quieter—and steadier.
+
+*set trust_zack +1
+
+*goto_scene section19

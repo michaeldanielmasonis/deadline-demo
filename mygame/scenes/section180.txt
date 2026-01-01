@@ -1,0 +1,47 @@
+*comment section180
+
+Your stomach still twists with the weight of what you’ve just lost. The Cliques article—your chance to make sense of everything, to honor Kylie’s spirit—gone. Deleted, erased, burned out of your notebook.
+
+But in its place, Declan gave you something far more urgent. Nyx’s last words. God, help me not be too late. And the photo of the MacReady Barn.
+
+Your phone buzzes you insistently, and you pull it out of your pocket to answer, nearly running in your attempt to get to the front of the school. It’s almost time for dismissal.
+
+“Hello?” you ask in ragged breaths.
+
+“Okay, Blah, here’s the breakdown,” Toby’s voice comes through, casual but clipped. “The Porsche? Belongs to a woman named Janet DiAnglio. The barn? Owned by a corporation called Snow Queen. Guess who the CEO is?”
+
+“Janet DiAnglio,” you breathe.
+
+“Correct. Gold star,” he says dryly.
+
+“But… who is she?” you ask, eyes flicking toward the front of the room where the teacher is still droning on.
+
+“Not sure exactly,” Toby admits. “But a quick search shows she’s wanted in New Jersey. Suspected drug trafficking.”
+
+Your pen slips from your fingers. “That matches what we’ve seen,” you whisper.
+
+“Oh, and one more thing,” Toby adds. “Snow Queen also owns the Carlton Heights Victorian Gardens. About a mile from the MacReady Barn.”
+
+The name hits like a sucker punch. “That makes sense, you say.”
+
+“Does it?” Toby asks, not really caring. “Anyway, that’s all I’ve got. You owe me one.” The line clicks dead.
+
+You stare at the blank notebook in front of you, pulse racing. The bell rings, startling you so badly you nearly trip down the hallway. You have to find your friends—now.
+
+Abbey, Charlie, and Zack are waiting by the lockers when you reach them. You tell them everything in a rush—Declan, the MacReady Barn, Toby’s call. By the time you finish, their faces are pale, eyes wide.
+
+“So what do we do?” Charlie asks quietly.
+
+Three choices hang heavy in the air: First, you can call 911 and leave it to the professionals. Hand it all over now and hope the cops arrive in time. Second, you can try to rescue Kylie and Nyx yourselves, but call Detective Garcia along the way. A reckless gamble, but maybe the fastest way to help. Finally, you can drive straight to the police station and give Garcia the evidence directly. A slower move, but one that ensures the truth reaches the right hands.
+
+Your heart pounds. Every second counts.
+
+What do you do?
+
+*choice
+  #Call 911.
+    *goto_scene section181
+  #Attempt to rescue Kylie and Nyx yourselves.
+    *goto_scene section182
+  #Drive to the police station to hand over the evidence.
+    *goto_scene section183

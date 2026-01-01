@@ -1,0 +1,37 @@
+*comment section150
+
+Charlie clambers in through the window after you, landing with a soft thud that sends up a puff of dust. He coughs quietly into his sleeve, the sound echoing faintly in the still air. You sweep your flashlight in a slow arc, the beam cutting through shadows that cling to the corners.
+
+The barn smells of mildew and rust, layered with the faint sweetness of old hay. Rafters creak overhead, and cobwebs hang in thick drapes from the beams. Then the light catches on something massive in the middle of the floor — a bulky silhouette under a black tarp.
+You freeze. “Charlie,” you whisper, jerking your chin toward it.
+
+His eyes widen. “Yeah, I see it.”
+
+The two of you move forward together, sneakers crunching softly against the dirt-strewn floor. The tarp’s coarse fabric rasps under your fingers as you lift a corner. The smell of dust and motor oil wafts out, sharp and chemical.
+Beneath, cold metal gleams back.
+
+Your breath hitches as you pull harder, and the tarp slithers down to reveal sleek curves of a metallic gray Porsche. The polished surface reflects your flashlight like water, the license plate winking back undeniable proof.
+
+“That’s it,” Charlie whispers, awe lacing his voice. “That’s Di’Anglia’s car. No way it isn’t.”
+
+Excitement rushes through you, your pulse quickening as you point toward the plate. Charlie nods hard, grinning despite the tension. “Nice work, Jess. We’ve got them.”
+
+But when you try the handle, it doesn’t budge. Locked.
+
+You turn to Charlie, frustration bubbling up. “What do we do?” you whisper, shrugging.
+
+Charlie grimaces, then hefts his crowbar. He gives you a sheepish look before miming a clumsy swing, like a batter stepping up to the plate. “We could… you know… smash and grab?” His tone makes it sound more like a question than a plan.
+
+You wince. The idea isn’t bad, but your gut clenches at the thought of the racket — the window shattering, the alarm screaming, the sound carrying for miles in the night.
+
+Your flashlight beam skitters across the barn again, catching on stacks of old crates, a half-buried ladder, and deep corners you haven’t searched yet. A shiver runs down your spine.
+
+The Porsche isn’t the only secret here.
+
+What do you do?
+
+*choice
+  #Break into the car.
+    *goto_scene section151
+  #Continue to search the barn.
+    *goto_scene section152

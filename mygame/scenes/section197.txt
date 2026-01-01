@@ -1,0 +1,39 @@
+*comment section197
+The hospital feels too bright, too sterile, too alive after what you’ve been through. Machines hum faintly, shoes squeak in the hall, but all you see is Charlie propped up on his bed, his arm cradled in a sling. He looks pale, tired, but his eyes warm when they find yours.
+
+“Hey,” he says softly. “You okay?”
+
+You let out a small, wobbly laugh. “Not really. You?”
+
+He tilts his head, that half-smile of his tugging at his lips. “I’ve been better. But I’ve also been worse. So… I guess that makes me lucky.”
+
+You sink into the chair beside him, your own bruises stiffening every move. For a moment, the silence stretches, filled with all the things you both don’t know how to say. Then Charlie shifts, reaching across with his good hand to find yours. His fingers are warm but trembling.
+
+“I thought I was going to lose you tonight,” he admits, voice rough. “And the thought of that—” He stops, swallowing hard. “It scared me more than anything. More than getting shot. More than the enforcer. Just… the idea of you not being here.”
+
+Your breath catches, your chest tight. “Charlie…”
+
+He shakes his head quickly. “I know, I know. I’m not good with speeches. I’m just saying… I don’t want to waste time anymore pretending I don’t feel this way.”
+
+You squeeze his hand, tears prickling at your eyes. “You don’t have to pretend. I’ve always known.”
+
+His eyes widen just a little, and then his smile deepens—shy but certain. He leans forward, tentative, waiting for you to meet him halfway. You do.
+
+The kiss is soft, almost fragile at first, but it lingers, building warmth in the cold hospital room. When you finally pull back, your foreheads rest together, your breaths mingling.
+
+“You’re my best friend,” he whispers. “But you’re also… so much more.”
+
+Your cheeks burn, but you manage a small, fierce smile. “Guess I’m stuck with you now.”
+
+“Guess so,” he replies, eyes shining despite the exhaustion.
+
+Your heart sings the rest of the weekend.
+
+Kylie spends the next few weeks recovering at home. She never goes back to the same girl she was—there’s too much shadow in her eyes now—but when you and your friends visit, she always manages a smile. She thanks you every time, over and over, until finally you tell her she doesn’t have to. “You don’t owe me anything,” you remind her. “You already taught me how to be brave.”
+
+Nyx’s road is harder. He spends time in counseling, fighting the weight of guilt and the temptation to disappear into old habits. But with Aunt Judy steadfast at his side, and with Kylie checking on him daily, he begins to heal. He tells you once, late one afternoon when you find him sketching in the library, “You didn’t just save my life, Jessi. You gave me a chance to live it right this time.”
+
+*if trust_jonas <= 1
+  *goto_scene section199
+*else
+  *goto_scene section200

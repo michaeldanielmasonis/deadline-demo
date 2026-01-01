@@ -1,0 +1,15 @@
+*comment section78
+
+The pickup jerks, shudders, and stalls, just as a bullet whizzes barely inches past your head. The jerking is the only thing that saves your life.
+
+But now, Ms. Chase has reached the truck, and she aims the gun at you from point-blank range. “Goodbye, Jessica,” she says. But just before she pulls the trigger, you slam the driver's door into her side, and the shot goes wide.
+
+As Ms. Chase curses and points her pistol back at you, you frantically turn the ignition and the truck roars to life. Just as she fires, you correct your earlier mistake and peel out of the brush and trees and back onto the drive.
+
+Pulling the driver door closed, you shift to second gear and quickly leave your teacher behind as she curses you with repeated shots from her gun.
+
+You don’t start to grin until you reach the highway and speed towards town.
+
+*set cool -1
+
+*goto_scene section79

@@ -1,0 +1,25 @@
+*comment section200
+
+Much to your surprise, the next day, the school is rocked by an announcement. Jonas Barrymore publicly confesses to the crime of stealing Booster Club money. He doesn’t mention Mackenzie’s abortion or why he stole the money, but he does admit that Kylie never attempted to seduce him and instead had tried to give him the courage to confess what he had done. He explains that the rumor was started to protect his reputation and that he went along with it to save his own skin. “I know it’s too late,” he says with tears in his eyes, “but I’d like to say I’m sorry, Kylie Addams, for all the pain I caused you. Will you forgive me?”
+
+Kylie gives him a huge hug and says, “Of course I do.” Mackenzie was strangely absent that day.
+
+Eventually, Jonas ends up doing community service instead of actual jail time due to his confession and the fact that his family returned all the money that had been taken. Over the summer, both Jonas’s family and Mackenzie’s quietly move to different parts of the state and are never heard from again.
+
+Later that evening, Madison High holds a celebration in the gym. Streamers and flowers cover the bleachers, but the mood is solemn as well as joyous. The principal takes the microphone and, after a long pause, announces:
+
+“Tonight, we honor Kylie Addams and Nyx Poulson—for their resilience. And we honor the students who risked everything to bring them home.”
+
+The applause rises like thunder, rolling through the gym. You sit with Zack, Charlie, and Abbey, humbled as wave after wave of cheers washes over you. Kylie and Nyx stand at the front, hands clasped, both still fragile but alive.
+
+When Kylie speaks, her voice trembles but does not break. “I wouldn’t be here without my friends—the ones who believed in me, and the ones who refused to let the truth stay hidden. Let’s promise each other to be braver, kinder, and better. For everyone.”
+
+The crowd rises to their feet, and for a moment, the cliques, the rumors, the dividing lines—all of it feels like it doesn’t matter anymore.
+
+You glance sideways at Zack. He catches your eye and squeezes your hand, and you know, deep down, that though scars remain, something new has begun.
+
+The End.
+
+*set endings +1
+*goto_scene ending
+

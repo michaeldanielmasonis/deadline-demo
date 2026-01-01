@@ -1,0 +1,12 @@
+*comment section159
+
+You duck into the trees instead.
+
+The woods are a living, breathing thing — branches whisper, leaves slap your face, and the dirt gives underfoot. You force your lungs into a calm rhythm: in–out, in–out. The moon is a thin coin in the sky; the canopy turns it into scattered silver. Your sneakers slip on roots. You keep going, hugging the line of scrub so you only move in shadows.
+
+Behind you, Ms. Chase’s heels crunch on gravel and then on softer earth; her voice slices the night. “Come out! This is getting old!” Her silhouette sweeps between trees. You flatten yourself against a trunk, bark rasping cold against your cheek, and hold absolutely still. Every nerve screams to run, but the simple rule of hiding keeps you silent — no sudden movements, no breath that can be heard.
+
+*if trust_garcia > 1
+  *goto_scene section164
+*else
+  *goto_scene section165

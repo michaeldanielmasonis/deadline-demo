@@ -1,0 +1,43 @@
+*comment section141
+
+The plan unravels in seconds.
+
+One moment you’re darting along the side of the dance hall, the music pounding through the Victorian style wood siding, the next you hear the sharp bark of a teacher’s voice. Zack’s curse cuts through the night air as the flashlight beam swings onto him.
+
+“Hey! You, stop right there!”  
+
+“Go!” Zack whispers over his shoulder, throwing you a desperate look. His broad frame blocks the chaperone’s path for just a moment — enough to give you and Charlie the opening you need.
+
+Your stomach twists. You want to turn back, but Charlie’s hand clamps around your wrist, tugging you hard. “No time, Jessi! Come on!”
+The two of you sprint across the darkened parking lot, sneakers slapping the pavement. Adrenaline buzzes in your veins, each shout from behind sounding closer. When you reach the edge of the lot, Charlie veers sharply toward a row of older cars.
+Your heart sinks. “What about Zack’s truck?” You see it, standing alone, like a steed without its knight.
+
+“Forget it,” Charlie pants. “We can’t drive it now. We’re taking my car.”
+
+You get the bag of tools out of the back of Zack’s pickup and slink it over your shoulders. Then you both half-run, half-walk to Charlie’s car.
+
+He fumbles with his keys and yanks open the door of a battered Toyota Corolla, its paint chipped, one headlight cloudy with age. The inside smells faintly of old fries and motor oil.
+
+“This… this is our getaway car?” you gasp, half-laughing, half-panicked as you dive into the passenger seat.
+
+“Hey,” Charlie says, jamming the key into the ignition, “she may not be pretty, but she’s reliable.” The engine coughs, sputters, then roars reluctantly to life.
+
+Behind you, Zack’s voice fades into the shouts of the chaperones as they corner him. The guilt stabs deep, but Charlie slams the gear into reverse. “We’ll come back for him,” he mutters, pulling out fast. “Right now, we can’t waste the chance.”
+
+The Corolla rattles as it tears down the side street, the school’s lights shrinking in the rearview mirror. You grip the dashboard, pulse still hammering. The plan didn’t survive contact with reality — but at least you and Charlie are still free.
+
+The engine rattles beneath you as he eases out onto the highway, headlights slicing white ribbons through the night. Five minutes later he kills the lights and slows to a crawl; two hundred yards from the MacReady barn he eases the Corolla off the drive and noses it into the low brush between a pair of oaks. The car smells faintly of old fries and motor oil; the paint flakes under your fingertips when you push the door open.
+
+You and Charlie step out in near-silence, the only sounds the distant thump of the dance and the soft snap of dry leaves under your sneakers. On opposite sides of the car, you unzip backpacks and pull out dark hoodies and black leggings — your version of ninja wear, as Charlie jokes with a throat-clearing attempt at levity. The air is cold against your skin as you peel off your dance clothes; the fabric rustles, and for a second the night feels unbearably intimate. Charlie does the same, breath fogging in the chill; you both keep your eyes averted when you can’t help but glance up. You blush to think about how you are both naked on opposite sides of the car.
+
+When you’re changed, you tuck Abbey’s tools into the duffel — pry bar wrapped in a towel, a compact sledge, a coil of cord — and pocket a couple of flashlights. The Corolla’s engine ticks as it cools; you take one last look at it, then shoulder your bag and follow Charlie toward the barn. The path crunches underfoot, and in the black the building looms like a dark tooth against the sky. A faint smell of hay and old wood reaches you as you step closer.
+
+You circle the structure, flashlights slicing the siding. After several minutes of scouting, you stop and trade looks. The barn is boarded up tight; nails hold the planks stubborn and mean. There are only two realistic options, Charlie says quietly: pry the boards off a window, one at a time, risking noise and splinters, or break the heavy padlock on the main doors, which will be louder but faster. Neither choice looks clean, and both promise trouble if someone’s still awake inside.
+
+You sink onto a bale of hay to catch your breath, the night pressing close. The decision settles in your chest like a stone — one wrong move and this whole night could end in lights and shouting.
+
+*choice
+  #Pry open the boards over one of the windows.
+    *goto_scene section145
+  #Break the lock over the barn doors.
+    *goto_scene section146

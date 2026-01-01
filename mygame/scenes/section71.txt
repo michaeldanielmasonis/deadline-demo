@@ -1,0 +1,15 @@
+*comment section71
+
+Remembering Zack’s instructions, you clear your mind from the panic and push in the clutch and turn the key in the ignition. The truck engine roars to life.
+
+Quickly, you glance over your shoulder and see Ms. Chase rushing, limping quickly towards you, gun aimed in your direction. The muzzle flashes, and a bullet shatters the driver's side window.
+
+You let out a piercing scream, fear blocking your ability to remember the next step to get the truck moving. Quickly, you stare down at the driver’s panel.
+
+What do you do?
+
+*choice
+  #Push on the accelerator and slowly release the clutch.
+    *goto_scene section76
+  #Push on the brake and slowly release the clutch.
+    *goto_scene section78

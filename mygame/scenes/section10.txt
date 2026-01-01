@@ -1,0 +1,52 @@
+*comment section10
+
+By the time you reach your locker, you are feeling better and ready to face the day.
+
+As you are putting away your books and pulling out your notebook for the first period, you feel a set of hands cover your eyes. “Guess who?” says a voice, low and husky in an attempt to disguise itself.
+
+“Chris Hemsworth," you say with a smile. Turning around, you see your friend Abbey. “Oooh,” you mock complain, “it’s only Liam, his less sexy brother.”
+
+Abbey slaps your arm. “Hey!” she protests, “Liam is way sexier than Chris! Chris is vanilla. Liam is so totally chocolate!”
+
+“Maybe,” you muse, “but at best you’re a soy milk substitute. It’s what you get for being a vegan.”
+
+*image guess_who
+
+Abbey gasps in mock outrage, her black hair, swarthy skin, and faux leather pants add a striking warrior contrast to her girlish pout. “Fine,” she grumps with crossed arms, “Just for that, I won’t let you in on the latest scoop. Hehe! You see what I did there, Little Miss Journalist?”
+
+You roll your eyes. “Spare me the news puns, please,” you groan, “Just ‘fess up. What’s the scoop? You know you’re going to tell me anyway.”
+
+Abbey sighs to herself and mutters. “You know me too well.” Abbey looks to see if anyone is near her and then leans in close. “Okay,” she says, “so apparently the new kid, Zack Jayson, is going out with Kylie Addams.”
+
+You look at her in surprise. “You mean that gorgeous bad boy with the vampire vibes? He’s going out with that super sweet church girl?”
+
+Abbey nods in affirmation. “Yes, but that’s not the scoop. The scoop is that our church girl, Kylie, may not be as sweet as she seems. Apparently, she made a play for Mackenzie Hamilton’s boyfriend Jonas at the party last weekend. You know the one at the Glitterati Club House?”
+
+You nod in understanding. The Glitterati were all the rich, popular kids in Carlton. And the clubhouse was code for Jonas Barrymore’s mansion, where all the posh parties were held.
+
+Abbey continued, “Well, apparently, Mackenzie caught Kylie getting cozy with Jonas on his bed during the party, which caused quite a scene. What makes this even more interesting is that not fifteen minutes later, Kylie is seen being really chummy with the beautiful Edward Cullen look alike in the backyard garden before they take off in his car. And get this: Kylie doesn’t come home after that. She doesn’t even show up to church on Sunday.”
+
+“Did she come to school today?” you ask.
+
+“Nope,” says Abbey. “And neither has Zack. The word is that Zack has drained her of her blood, and she is now numbered among the ranks of his undead harem of beautiful fangirls.”
+
+“Oh, please!” you say in disgust. “So, what really happened?” you ask.
+
+“Don’t know,” says Abbey. “It’s a real mystery. But if something did happen to Kylie, you can bet the police will be asking questions.”
+
+“Hmm,” you think, “a chance for me to do a real story.”
+
+Abbey sees your look and puts her fingers into the shape of a gun. She shoots you with a wink of her brown eyes and a click of her tongue. “You’re welcome.”
+
+You thank Abbey and take off for your first-period class, your thoughts brooding over how to convince your journalism teacher, Ms. Chase, to let you cover the potential story. As you settle into your seat, you think through the possibilities, but you are also mindful that class is starting.
+
+What do you do?
+
+*choice
+    #Forget the story for the moment and concentrate on your class.
+        *goto_scene section3
+    #Ignore the class and try to strategize a plan for convincing Ms. Chase.
+        *goto_scene section11
+    #Try to do both your classwork and come up with a plan.
+        *goto_scene section88
+

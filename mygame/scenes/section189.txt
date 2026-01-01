@@ -1,0 +1,34 @@
+*comment section189
+
+You don’t hesitate. With a sharp nod to your friends, you sprint to the trapdoor, yank it open, and drop down into the darkness. The others follow close behind, boots thudding onto the cold cement floor.
+
+The beam of your phone flashlight slices across the cellar—freezing your heart.
+
+Kylie is there. Her blond hair is matted, her wrists bound, her face pale but alive. Beside her, Nyx is on his knees, his voice hoarse as he pleads with the woman standing above them.
+
+And the woman is Ms. Chase.
+
+Your journalism advisor. The one person who always told you to “find the truth.” Her face twists with shock at your sudden entrance—but only for a heartbeat.
+
+Then she recovers.
+
+Her hand whips out, the pistol gleaming in the low light. Two deafening shots explode, echoing off the concrete walls. Zack jerks backward, blood blooming across his chest. Charlie crumples beside him, his glasses shattering against the floor.
+
+“No!” you scream.
+
+Before you can reach Abbey, a massive shadow drops from the trapdoor above. An enforcer—towering, monstrous—wraps his hand around her throat. One violent wrench, a sickening crack, and Abbey falls limp like a broken doll.
+
+You fling yourself at Ms. Chase, rage giving you strength you didn’t know you had. The two of you crash to the ground, her gun skittering across the floor. By sheer luck, your fingers close around it first. You turn, heart pounding, ready to fire——but steel arms clamp around you from behind.
+
+The enforcer’s grip tightens, crushing your ribs, his forearm squeezing your windpipe. The gun slips from your grasp as black stars explode at the edge of your vision. You claw at his arm, kick, thrash—useless.
+
+Ms. Chase straightens, brushing dust from her dress, her lips curling into a mocking smile. “You should have stuck to your article, Jessica. You could have written such a pretty little piece about cliques.”
+
+Your lungs burn. Spots dance in your vision. The last thing you hear is her low, cruel laugh as the world collapses into suffocating black.
+
+The End.
+
+*achieve tragedy_ending
+*set endings +1
+*set deaths +1
+*goto_scene ending

@@ -1,0 +1,53 @@
+*comment section12
+
+At recess, you find Abbey and Charlie waiting for you beside your usual hangout spot on a bench near the dogwood tree beside the outdoor basketball courts.
+
+"Hi Charlie," you say, giving him a friendly wave.
+
+Charlie looks up at you excitedly with his spectacled warm brown eyes and says, "Hey, Jessi! You look good today!" Where Abbey is short and sharp-featured, with black hair and an athletic build, Charlie is tall and open-faced, with dark brown hair and a stoutish figure.
+
+Abbey rolls her eyes good-naturedly and says, "And there’s Charlie’s Jessica Lane compliment of the day." Charlie stares at her, at a loss for words, but Abbey doesn’t seem to mind. She leans towards Charlie with a gleam in her eyes. "Tell me, Charlie, how come you never give me any compliments? Hmm? Only Jessi! Explain that."
+
+Charlie, recovered from his surprise, retorts, "Oh, that’s easy—I don’t compliment cave trolls."
+
+You burst out laughing while Abbey stares at him, spluttering. "He got you there, Abs," you say with a grin.
+
+"You’re the cave troll," Abbey mutters under her breath.
+
+"But you know who’s not a cave troll?" you ask. And when both your friends look at you, you nod your head to the figure walking by. "Zack Jayson."
+
+"Oh my God, he’s here!" exclaims Abbey. "And without Kylie. How interesting!"
+
+You watch Zack as he leans with his back against a nearby oak tree, arms folded, and you melt a little. He is hot. Long-limbed, lean, with definite muscle definition and golden brown hair that is just long enough to be rakish. "Very interesting," you say, your journalistic instincts warring with your desire not to drool.
+
+Charlie sees your expression and frowns, shaking his head. "What’s so great about him?" he asks. "He doesn’t have any friends, and he puts on this show of being a badass, but he doesn’t really do anything other than stand around looking like a Stephanie Meyers character! He’s just another freak show."
+
+"Charlie!" you admonish.
+
+Abbey also chimes in, "Yeah, don’t be a hater just because you’re jealous."
+
+"I’m not jealous," he protests, "I’m just concerned! Look at what he’s done with Kylie. They go off together, and now she’s missing."
+
+"How do you know about that?" you ask.
+
+Charlie flushes a bit, and he stammers, "Well, girls aren’t the only ones who can listen to gossip."
+
+"Make up your mind, Charlie," Abbey says. "Is he a do-nothing, or is he a dangerous bad boy?"
+
+Charlie raises his hands, "Look, all I’m saying is he seems like trouble."
+
+"Well, let’s find out!" Abbey says with an excited grin. She looks over at you. "Jessi," she says, "I dare you to go and talk to him."
+
+"What?" you ask, with a strange feeling of dread and excitement rising in your stomach. "Why?"
+
+"You tell me!" says Abbey. "First of all, you’re totally into him. Second, he’s not with anyone. And third, he might be a potential story lead."
+
+You look at Charlie, who frowns and looks away, and then you look at Zack. Indecision wars across your face.
+
+*choice
+  #Approach Zack.
+    *goto_scene section54
+  #Don’t approach Zack.
+    *goto_scene section68
+  #Have Abbey approach Zack for you.
+    *goto_scene section98

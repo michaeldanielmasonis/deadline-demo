@@ -1,0 +1,41 @@
+*comment section157
+
+It can’t be that hard right?
+
+Your hands shake as you jam the key into the Corolla’s ignition. The engine roars to life, headlights flaring against the dark road. Relief crashes over you in a dizzying wave, but your panic gets there first.
+
+“Come on, Charlie, we’re getting out of here!” you cry, voice breaking. He stirs weakly beside you, a low moan rattling in his chest, but his head lolls uselessly against the seat. When you reach for his arm, your hand comes back wet and sticky. Blood. Too much of it.
+
+“No, no, no—don’t do this, not now,” you plead.
+
+The roar of the Porsche behind you makes your stomach twist. Its headlights flood the interior of the Corolla in harsh white beams, throwing every detail into painful clarity — Charlie’s pale skin, your trembling hands, the smear of blood across your jeans.
+
+Your breath hitches. You slam the gas.
+
+The tires squeal, gravel spraying, the car surging forward with more force than you can control. Your vision blurs with tears as you grip the wheel too hard. “Hold on, Charlie!”
+
+But the road ahead curves, and you don’t.
+
+The Corolla veers. A dark mass looms in front of you — a tree at the edge of the ditch, its bark gleaming wet in the headlights. You yank the wheel, too late. The impact is brutal, the world exploding into metal crunch and glass shatter. The seatbelt digs deep into your chest. Your head whips forward, then back, vision bursting with stars.
+
+The car groans, hissing steam from the crumpled hood. You blink through the blur, chest heaving, ears ringing. Charlie doesn’t move.
+
+A sound cuts through the wreck’s hiss: the click of a gun being cocked.
+
+You turn your head stiffly. Ms. Chase stands just outside the shattered driver’s-side window, the gun leveled at you. Her shadow stretches long and cruel in the headlights.
+
+“You poor thing,” she says almost sweetly. “You never really learned how to handle pressure, did you?”
+
+Tears burn down your face. You open your mouth, but no words come.
+
+She sighs, tilting her head, as if disappointed in a student who didn’t study hard enough. “Goodbye, Jessica.”
+
+The flash fills your vision.
+
+You never even feel the bullet.
+
+The End.
+
+*set endings +1
+*set deaths +1
+*goto_scene ending

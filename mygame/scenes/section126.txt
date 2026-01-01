@@ -1,0 +1,34 @@
+*comment section126
+
+The air feels razor-sharp in your lungs as Nyx raises the gun. His hands shake, but his eyes are wild, locked on you, Charlie, and Zack like you're all threats.
+
+"Nyx, please!" Charlie blurts, his voice cracking.
+
+You step forward despite the icy weight in your stomach. The barrel points squarely at your chest, the metal glinting under the dim light.
+
+"We're just trying to help you!" you shout, your voice echoing against the concrete walls.
+
+Nyx's face twists. "Liar!" he screams. His finger tightens on the trigger, knuckles white. "You're all liars!"
+
+The sound is deafening. Pain blooms through your side like fire, knocking the breath out of you. You collapse to the ground, your notebook skittering across the floor.
+
+"Jessi!" Zack's voice is raw, distant through the ringing in your ears.
+
+Nyx stumbles back, eyes wide and shining with unshed tears. He lets out a strangled sob, then bolts into the night. The door slams behind him.
+
+Charlie presses his hands against your wound, blood hot between his fingers. "Stay with us, Jessi. Stay with us."
+
+Everything blurs — the shouts, the rush of footsteps, the sirens that wail somewhere far away.
+
+The hospital room smells of antiseptic and stale coffee. Weeks pass in fragments — white walls, quiet monitors, the ache that never quite leaves your ribs. You recover slowly, but the scar remains.
+
+Nyx is never found. No one knows where he went, or if he's even alive.
+
+And Kylie Addams? The investigation sputters, then dies. Her name fades from the news, from the whispers in the halls, until she is nothing but a question mark carved into your memory.
+
+Even years later, lying awake on restless nights, you wonder if shouting those words — We're just trying to help you — made any difference at all.
+
+The End.
+
+*set endings +1
+*goto_scene ending

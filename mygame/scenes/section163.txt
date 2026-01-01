@@ -1,0 +1,52 @@
+*comment section163
+
+The next day, your mom drives you to Carlton Memorial Hospital. She gives you a quick squeeze on the shoulder and stays in the hallway while you step quietly into Charlie’s room, a vase of flowers clutched nervously in your hands.
+
+“Hey, you,” you say softly when you see him. He’s propped up against the pillows, shoulder and side swaddled in gauze. His face looks pale—paler than usual—but the moment his eyes land on you, they brighten.
+
+“Jess,” he says, his voice weak but warm. “I can’t believe you came.”
+
+“Of course I did,” you say, perching carefully on the edge of his bed.
+
+His gaze shifts to the flowers in your hand, and he lets out a small laugh. “Are those… for me?”
+
+“It’s tradition,” you say, setting them gently on the nightstand. “Though if you’d rather something more manly…”
+
+Charlie shakes his head quickly, a flicker of his usual awkward grin crossing his face. “No. They’re perfect. Honestly.”
+
+“Good,” you say, unable to hide the way your smile lingers as you look at him.
+
+A moment of quiet settles between you, broken only by the beeping monitors and the soft hum of the vents. Then he clears his throat. “Jess… thank you. For everything back there. If it weren’t for you, I don’t think I’d be here. You… you saved my life.”
+
+“Don’t,” you say quickly, shaking your head. “I’m just sorry I dragged you into all this.”
+
+“Dragged me in?” he says with a weak chuckle. “No. You gave me purpose. Before all this, I was just hiding behind screens and homework, pretending I mattered. But out there? With you? I mattered. I knew who I wanted to be. What kind of person I could be.”
+
+His hand slides tentatively onto yours, warm but trembling. Your chest tightens, and before you know it, you’re blushing.
+
+“You know,” you say lightly, hoping to mask how fast your heart is beating, “in the old stories, the knight who rescues the lady usually gets a token of her appreciation.”
+
+Charlie arches a brow, trying for playful but faltering halfway into something more serious. “Oh yeah? What did you have in mind? Don’t tell me you want my Dungeons & Dragons dice set.”
+
+You laugh, leaning closer, your blush deepening. “Not quite. I was thinking of something else.”
+
+Charlie swallows, suddenly shy, but doesn’t pull away. “And what… what’s that?”
+
+Slowly, you lean in until your breath mingles with his, your lips hovering a heartbeat away. “What do you think?” you whisper.
+
+His eyes widen, then soften. “Oh,” he whispers back.
+
+You press forward, kissing him gently at first, then with more certainty as the moment takes hold. The warmth of it floods you, chasing away the hospital chill.
+
+When you finally pull back, breathless, his face is lit with a smile that’s both goofy and tender.
+
+“My hero,” he says softly.
+
+You laugh, cheeks burning. “That’s supposed to be my line.”
+
+*if trust_jonas <= 1
+  *goto_scene section168
+*else
+  *goto_scene section169
+
+

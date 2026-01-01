@@ -1,0 +1,25 @@
+*comment section1
+
+The car smells like your mom’s vanilla latte, sweet and cloying, with just a faint trace of the pine-scented air freshener she bought last month. The passenger seat belt digs into your shoulder no matter how you yank or shimmy it, and the cracked vinyl sticks slightly to your arm where your jacket’s ridden up.
+
+Outside, the morning light is thin and gray, the sky bruised with low clouds. Condensation pearls along the edges of the window and the heater wheezes out air that never quite reaches your freezing toes.
+
+Mom hums along to some power ballad on the radio, her voice a little off-key but enthusiastic, drumming the steering wheel in time with the beat. The wipers squeak softly across the glass as they swipe away a faint mist.
+
+She glances at you, hands at ten and two, eyes flicking from the road to your face. “So… big day, huh?” she says, like every morning isn’t a big day in her book. “You ready?”
+
+It doesn’t feel like a big day. Your journalism advisor promised some kind of “important announcement” today, but other than that, it’s just another irritating, driver’s-licenseless, freedom-deprived day.
+
+*image morning_ride
+
+You look at your mom, the woman who gave you life but refuses to hand you the keys to it.
+
+What do you do?
+
+*choice
+    #Scroll through your phone and pretend you didn’t hear.
+        *goto_scene section92
+    #Sigh and change the radio station.
+        *goto_scene section93
+    #Suck it up and put on the charm.
+        *goto_scene section94

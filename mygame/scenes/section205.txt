@@ -1,0 +1,58 @@
+*comment section205
+
+The principal’s words hit you like a slap in the face. “I do not write gossip pieces,” you snap, stiffening under his stare. “My work is completely professional, Mr. Dean.”
+
+He raises a brow, unimpressed. “Then where is it? The Cliques article? If you’re so professional, Jessica, surely you’ve brought it with you.”
+
+Your stomach drops. You grip your bag tighter, feeling the emptiness where your laptop should have offered proof. You shake your head. “I… I don’t have it,” you admit, forcing the words past the lump in your throat. “It’s not ready. I couldn’t finish.”
+
+For a long, excruciating moment, Mr. Dean just stares at you, his lips pressed into a hard line.
+
+“Then what exactly am I supposed to believe?” he demands. “Jonas and Mackenzie’s parents came to me furious about this—claiming you were spreading rumors. And now I learn you don’t even have a story finished to defend yourself?”
+
+Your mother bristles beside you, her arms crossed. “My daughter doesn’t fabricate stories. If Jonas and Mackenzie are panicking, maybe you should be asking why.”
+
+Dean frowns, clearly caught between irritation and unease. He finally sighs, rubbing at his temple. “Regardless, Jessica failed her deadline. That’s a fact. And in journalism, deadlines matter.”
+
+Heat floods your cheeks. “So that’s it?” you ask bitterly.
+
+“That’s it,” he says firmly. “You’re off the Cliques column. Effective immediately.”
+
+Your heart plummets, humiliation cutting deeper than you expect. He continues, his voice clipped: “Another student will step in and provide the coverage. You’ll be reassigned to copy editing until further notice. Consider yourself lucky I don’t remove you from the paper altogether.”
+
+You nod stiffly, though your nails dig into your palms.
+
+“Now,” Dean says, his voice shifting, “there’s another matter. You and your friends ditched your classes the other day and left campus without authorization.”
+
+Your mother’s head snaps toward him. “More false accusations?” she demands hotly.
+
+Dean shakes his head. “No. Anonymous tip, but backed by security footage. The four of you hopped the wall. It was a coordinated operation.” His gaze flicks to you with something like reluctant admiration. “Well planned. But unacceptable.”
+
+The blood drains from your face. “Um—” is all you manage before your mother fixes you with her most withering glare.
+
+“Explain,” she demands.
+
+With nowhere left to hide, you spill everything—about Kylie’s disappearance, Nyx’s spiral, your search for answers, the risks you took. The words pour out until you’re hoarse.
+
+When you’re done, the silence stretches. Dean leans back, frowning. “You’re staying right here. The police need to hear this.”
+
+Hours crawl by before Detective Garcia finally arrives. She listens with her usual sharp gaze, takes your statement, and interviews Charlie, Zack, and Abbey as well. By the time they’re done, you’re drained, your hands shaking.
+
+The officers order you to stay home while they investigate. You never make it to the dance.
+
+A squad car sweeps Nyx’s place that night, but nothing turns up. It takes until morning to secure a warrant for the MacReady Barn, and by then, it’s too late. The hidden basement has been scrubbed clean. Kylie and Nyx are gone.
+
+Weeks later, the case fizzles out. No arrests. No answers. Kylie and Nyx vanish into rumor and shadow.
+
+A month later, the booster club audit confirms Jonas’s embezzlement. His parents, trying to bury the scandal, move away with Mackenzie before the community fully turns on them.
+
+It should feel like a victory—proof you weren’t lying, proof you weren’t just a gossip. But as the news fades, the regret grows.
+
+You never wrote the Cliques article. You never found Kylie. And every time you close your eyes, you wonder if finishing either one of those things might have made the difference between saving her life and losing her forever.
+
+The End.
+
+*set endings +1
+*goto_scene ending
+
+

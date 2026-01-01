@@ -1,0 +1,76 @@
+*comment section155
+
+You spin as the figure steps into the light and freeze—Ms. Chase’s face is unmistakable.
+
+“Ms. Chase!” you blurt. “You’re Janet DiAnglia!”
+
+“Obviously,” she replies, voice cold, the barrel of a pistol steady in her hand.
+
+Your pockets are emptying by reflex. “But why?” you ask, trying to keep your voice even.
+
+“Ah-ah-ah,” Ms. Chase corrects briskly. “Put your hands where I can see them.”
+
+You shove your hands up, palms flat. Charlie does the same, eyes wide in the strobe of your flashlight.
+
+“Come on, Ms. Chase,” you try, buying time. “You’re a brilliant journalist. A good teacher. Why would you do such a thing?”
+
+She snorts. “Explain myself to you? Hardly.”
+
+You push, desperate. “One journalist to another— inquiring minds want to know.”
+
+She flicks the gun, forcing you to step closer to Charlie. “Fine. One final interview,” she says with a smile that doesn’t reach her eyes. “I’ll let you ask three questions before I kill you. Consider it professional courtesy.”
+
+You huddle next to Charlie for warmth, your teeth clattering slightly in the cold. “So,” you say, trying to keep the edge of your voice light, “why?”
+
+“Why, what, Jessica?” Ms. Chase asks. “You have to be precise.”
+
+“Why did you kill Kylie Addams?” you force out.
+
+Her face hardens. “Because she found out about my operation with poor Nyx Poulson. She was in my way.” She taps a finger against the gun. “That’s one.”
+
+“Why Nyx?” you ask, breath fogging in the stale air.
+
+“Oh, please,” she says with a disdainful laugh. “He could have identified me. I couldn’t risk that. What a waste of a question. Truly, I expected better.” She cocks the pistol. “Two.”
+
+Sweat beads at your temples despite the cold. You think fast. “How does a star reporter—someone who writes for the New York Times—turn into a dealer in a small-town high school?”
+
+At that, Ms. Chase perks up, delighted. She steps forward; the heels of her shoes click sharply on the concrete. “Now that’s a good question,” she says, almost conversational. “Money. Lots of it. And resentment.”
+
+You blink. “Your teacher’s salary—wasn’t that enough?”
+
+A bitter laugh. “Hardly. I was ruined—fired, betrayed, forced from the city. I lost everything in a bad real-estate deal. The Carlton Heights gardens—my name’s on the line. I needed revenue to keep it afloat.”
+
+You frown, the pieces sliding into place. “You had the contacts?”
+
+“It isn’t rocket science,” she says. “My old sources on the crime beat were useful. And that, Jessica—that’s three.” She glances at her watch and then at you with professional, cold efficiency. “I gave you your quota.”
+
+You scan the room for an escape and find nothing. Your heart hammers as Ms. Chase re-levels the gun. “Goodbye, Jessica. It’s been fun.” She pulls the trigger.
+
+At the same instant Charlie lunges. He shoves you aside; the shot grazes his ribs. He cries out and collapses to the floor. Adrenalized and furious, you shove at Ms. Chase with everything you have. Her heel slips on the slick concrete and she topples, stunned.
+
+You scramble to Charlie, hauling him to a sitting position. “Get the gun!” he pants.
+
+But when you turn, Ms. Chase is already snatching the pistol from where it clattered. “No time!” you yell, and drag at Charlie’s arm.
+
+He forces himself up the metal ladder, each rung slick in the cold. You follow, climbing with fingers torn and numb. Ms. Chase struggles to her feet below, clutching her head where it hit the floor; a smear of blood dims the concrete.
+
+“I'm going to kill you!” she screams, voice ragged, and tries to rise.
+
+The ladder is a smear of motion as you and Charlie scramble upward; the metal is slick with blood and your hands slip, but you pull yourself over the lip and stumble onto the upper level. Charlie sways, pale, the world narrowing around him.
+
+You put an arm around his shoulders and half-carry, half-hobble him toward the truck. Behind you the scrape of Ms. Chase’s heavy breath follows; then a shout, and the crack of a gunshot rings out. A bullet whistles past your ear. Adrenaline flares and you sprint faster, carrying Charlie as best you can.
+
+“Stay with me,” you plead. “We’re almost there.”
+
+At the Corolla, Charlie’s head droops against yours. “Get my keys,” he rasps through clenched teeth. “You have to drive.”
+
+There’s no time for argument. Fingers fumbling, you find the keys in his pocket, press the remote. The truck unlocks with a dull beep. You half-help, half-shove Charlie into the passenger seat, then leap to the driver’s side and jam the key into the ignition.
+
+Your hands shake on the wheel. “Oh God,” you think, breath jagged. “I don’t know if I can do this.”
+
+But there’s no choice—just the thunder of your own pulse and the long, cold road ahead.
+
+*if learned_stick
+  *goto_scene section157
+*else
+  *goto_scene section158

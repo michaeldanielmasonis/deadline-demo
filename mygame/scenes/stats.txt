@@ -1,0 +1,178 @@
+*comment =========================
+*comment PLAYER-FRIENDLY STATS
+*comment =========================
+
+*comment Recalculate derived/clamped display stats
+*gosub_scene startup calc_stats_display
+
+*comment =========================
+*comment Relationship Labels (OLD-PARSER SAFE)
+*comment =========================
+
+*temp mom_status "—"
+*temp zack_status "—"
+*temp charlie_status "—"
+*temp garcia_status "—"
+*temp toby_status "—"
+*temp jonas_status "—"
+
+*comment Mom: <= -6 Hostile | -5..-1 Tense | 0 Neutral | 1..5 Okay | >=6 Trusted
+*if trust_mom < 0
+  *if trust_mom <= (0 - 6)
+    *set mom_status "Hostile"
+  *if trust_mom > (0 - 6)
+    *set mom_status "Tense"
+*if trust_mom >= 0
+  *set mom_status "Neutral"
+  *if trust_mom > 0
+    *set mom_status "Okay"
+    *if trust_mom > 5
+      *set mom_status "Trusted"
+
+*comment Zack: <= -6 Hostile | -5..-1 Tense | 0 Neutral | 1..5 Friendly | >=6 Close
+*if trust_zack < 0
+  *if trust_zack <= (0 - 6)
+    *set zack_status "Hostile"
+  *if trust_zack > (0 - 6)
+    *set zack_status "Tense"
+*if trust_zack >= 0
+  *set zack_status "Neutral"
+  *if trust_zack > 0
+    *set zack_status "Friendly"
+    *if trust_zack > 5
+      *set zack_status "Close"
+
+*comment Charlie: <= -6 Hostile | -5..-1 Tense | 0 Neutral | 1..5 Friendly | >=6 Close
+*if trust_charlie < 0
+  *if trust_charlie <= (0 - 6)
+    *set charlie_status "Hostile"
+  *if trust_charlie > (0 - 6)
+    *set charlie_status "Tense"
+*if trust_charlie >= 0
+  *set charlie_status "Neutral"
+  *if trust_charlie > 0
+    *set charlie_status "Friendly"
+    *if trust_charlie > 5
+      *set charlie_status "Close"
+
+*comment Garcia: <0 Suspicious | 0 Neutral | 1..2 Helpful | >=3 Ally
+*if trust_garcia < 0
+  *set garcia_status "Suspicious"
+*if trust_garcia >= 0
+  *set garcia_status "Neutral"
+  *if trust_garcia > 0
+    *set garcia_status "Helpful"
+    *if trust_garcia > 2
+      *set garcia_status "Ally"
+
+*comment Toby: <0 Annoyed | 0 Neutral | 1..2 Okay | >=3 Respectful
+*if trust_toby < 0
+  *set toby_status "Annoyed"
+*if trust_toby >= 0
+  *set toby_status "Neutral"
+  *if trust_toby > 0
+    *set toby_status "Okay"
+    *if trust_toby > 2
+      *set toby_status "Respectful"
+
+*comment Jonas: <0 Avoiding | 0 Neutral | >0 Confiding
+*if trust_jonas < 0
+  *set jonas_status "Avoiding You"
+*if trust_jonas >= 0
+  *set jonas_status "Neutral"
+  *if trust_jonas > 0
+    *set jonas_status "Confiding"
+
+*comment =========================
+*comment Cool Ranking (OLD-PARSER SAFE)
+*comment =========================
+
+*temp cool_rank "—"
+
+*comment Use your already-calculated cool_points from calc_stats_display
+*comment Decide rank without elseif
+*if cool_points < 0
+  *set cool_rank "Antihero"
+  *if cool_points < (0 - 3000)
+    *set cool_rank "Classic Narcissist"
+
+*if cool_points >= 0
+  *set cool_rank "Moral Milquetoast"
+  *if cool_points >= 3000
+    *set cool_rank "Average Jane"
+  *if cool_points >= 6000
+    *set cool_rank "Classic Heroine"
+  *if cool_points >= 9000
+    *set cool_rank "White Knight"
+  *if cool_points >= 12000
+    *set cool_rank "Saint Jessica"
+
+*comment =========================
+*comment DISPLAY (CASE FILE)
+*comment =========================
+
+*temp yes_glitterati "NO"
+*temp yes_geek "NO"
+*temp yes_death "NO"
+*temp yes_delinquents "NO"
+*temp yes_blahs "NO"
+
+*if interviewed_glitterati
+  *set yes_glitterati "YES"
+*if interviewed_geek
+  *set yes_geek "YES"
+*if interviewed_death_eaters
+  *set yes_death "YES"
+*if interviewed_delinquents
+  *set yes_delinquents "YES"
+*if interviewed_blahs
+  *set yes_blahs "YES"
+
+[b]JESSICA LANE — REPORTER'S NOTEBOOK[/b]
+[i]Field notes on credibility, sources, and consequences.[/i]
+
+*line_break
+
+[b]COOL[/b]
+Standing: ${cool_rank}
+Points: ${cool_points}
+
+*line_break
+
+[b]ASSIGNMENT STATUS[/b]
+Interviews logged: ${interviews} / 5
+
+Glitterati — ${yes_glitterati}
+*line_break
+Geek Squad — ${yes_geek}
+*line_break
+Death Eaters — ${yes_death}
+*line_break
+Delinquents — ${yes_delinquents}
+*line_break
+Blahs — ${yes_blahs}
+
+*line_break
+
+[b]SOURCE TRUST[/b]
+Mom — ${mom_status}
+*line_break
+Zack — ${zack_status}
+*line_break
+Charlie — ${charlie_status}
+*line_break
+Garcia — ${garcia_status}
+*line_break
+Toby — ${toby_status}
+*line_break
+Jonas — ${jonas_status}
+
+*line_break
+
+[b]CAREER TOTALS[/b]
+Stories concluded: ${endings}
+Fatal outcomes: ${deaths}
+Do-overs: ${restarts}
+
+*page_break Return
+*goto_scene startup

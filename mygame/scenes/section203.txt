@@ -1,0 +1,36 @@
+*comment section203
+
+When you step into journalism class, the low buzz of students typing and shuffling papers already fills the air. Ms. Chase stands at the whiteboard, arms crossed, her sharp eyes following you as you slide into your seat. That look is enough to twist your stomach into knots.
+
+“Let’s get started,” she says briskly, moving to the front of the room. She runs down the staff assignments one by one, calling for updates: features, sports, photography. Charlie silently hands in his SD card with photos; Abbey delivers her culture piece with a proud grin.
+
+Finally, Ms. Chase’s eyes lock on you. “Jessica. The Cliques column.”
+
+Your palms sweat. You rise slowly, clutching your half-finished notes. “I… I need more time,” you admit, voice wobbling despite your effort to sound calm. “I don’t have enough quotes yet. I don’t feel it has the integrity it needs—”
+
+“Stop.” Ms. Chase cuts you off, her voice razor sharp. The entire class stills. “Deadlines don’t bend for your feelings, Jessica. If you can’t finish on time, you don’t get the byline. That’s how this works.”
+
+A flush creeps up your neck as she sweeps toward the back of the room. “Martinez,” she snaps, and a quiet girl with a French braid looks up from her desk. “You’ve been sitting on that story about the band’s new competition piece. Congratulations, you’ve just earned yourself the column slot.”
+
+“Yes, ma’am,” Martinez says, startled but eager.
+
+“And you, Jessica…” Ms. Chase turns back to you, her voice cool and final. “You’re demoted to copy editing. Perhaps fixing commas and dangling modifiers will remind you that journalism is a discipline, not a diary.”
+
+The room is silent except for the pounding of your heart. You sink back into your chair, heat burning your face. Around you, students avoid eye contact, murmuring softly as they return to their work.
+
+Humiliated, you force your hands onto the keyboard. The words on the page blur as you fight back tears. Losing the column feels like a disaster—like Ms. Chase just carved away the one thing that mattered.
+
+But beneath the sting of shame, another thought pushes through: you don’t have to pretend anymore. The Cliques article is gone. The pressure of the paper is gone.
+
+*image writers_block
+
+All that’s left is Kylie.
+
+You clench your jaw, your humiliation hardening into resolve. If Ms. Chase won’t let you write the story, then you’ll live it.
+
+*set cool -2
+
+*if reported_jonas
+  *goto_scene section86
+*else
+  *goto_scene section16

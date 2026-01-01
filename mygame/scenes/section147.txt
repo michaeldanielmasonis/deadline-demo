@@ -1,0 +1,25 @@
+*comment section147
+
+“Alright,” you whisper to yourself, the sound almost vanishing into the dark. “The window’s the only way. The lock’s too loud, too obvious.”
+
+You circle to the back of the barn, flashlight beam trembling across the weathered boards. The wood rises above you, gray and splintered, like the ribs of some dead giant. The boards nailed over the window sag with age, but still cling stubbornly in place.
+
+You wedge the crowbar into the seam. The cold iron bites into your palms as you lean in with your weight. The board groans, nails shrieking in protest before one bends free with a sharp pop. You freeze, breath caught, listening. Only the chorus of crickets and the distant croak of a frog answer.
+
+One more heave, and the board tears loose. You lower it carefully to the ground, heart hammering.
+
+Behind it, the window frame gapes like an open wound. Most of the glass is shattered, jagged teeth glittering faintly in the flashlight beam. The night breeze slipping through smells of mildew, dust, and hay.
+
+You sling the crowbar into the grass and take a breath, staring at the narrow opening. Without help, you’ll have to claw your way through.
+
+Gripping the sill, you haul yourself up. The wood is rough, damp from years of rain, scraping your palms as you struggle for leverage. Your sneaker slips once, catching on the uneven siding, and your knee bangs the wall hard enough to sting. Gritting your teeth, you pull again until your chest clears the sill.
+
+A shard of glass snags your sleeve, tearing fabric with a faint rip. You hold still, pulse racing, before easing past it and swinging one leg over. With a clumsy twist, you tumble inside.
+
+Dust explodes in a cloud as you hit the barn floor with a muffled thud. The air is thick, stinking of mold and old hay, and your flashlight beam dances wildly as your hands tremble.
+
+You’re inside. Alone.
+
+Success — but it already feels costly.
+
+*goto_scene section149

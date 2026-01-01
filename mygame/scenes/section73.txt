@@ -1,0 +1,59 @@
+*comment section73
+
+Nyx’s trailer was located a few miles off the main highway out of town along a winding dirt road. The trailer had a hose hooked up to a septic tank and a gas line that connected to a large propane tank. Other than that, it was completely off-grid.
+
+Zack parked his pickup behind some birch trees near the gravel pad, and everyone got out. About thirty yards from the trailer, a break in the trees revealed a view of Lake Carlton.
+
+“Pretty,” you observe.
+
+“Pretty isolated,” corrected Charlie. “I hope Nyx doesn’t cook meth in the trailer. We could be walking into a trailer bomb.”
+
+“No,” says Zack, “he’s just a distributor. He doesn’t make anything here.”
+
+“Except pot,” you say, pointing to some marijuana plants hiding underneath a sunscreen.
+
+“Okay,” says Zack, “we’re a bit early, so we’ll knock. If he’s here, we’ll question him. If not, maybe you two can do some casual searching for clues while I keep an eye out for him.”
+
+“Sounds good,” you say, and Charlie shrugs his agreement.
+
+The three of you walk up to the trailer, and Zack knocks on the door. “Nyx?” he calls out. “Nyx? It’s Zack. The Pezzinator sent me.”
+
+You wait a minute, and no one answers. You check the door and, surprisingly, it opens. The lock had been pried off. A sense of danger floods you, but still you peek your head in and call out. “Hello?”
+
+No one answers your call. But inside, you see that the small trailer home has been completely ransacked. Cupboards are torn open, and clothes, personal items, and even food lie strewn about the floor.
+
+You cautiously step inside, and Charlie follows behind you. Carefully, the two of you step around the debris of Nyx’s personal life, searching for anything that might be helpful. “I’ll search here,” Charlie says, “You can check out the other side.”
+
+Nodding, you make your way to the back of the trailer. You pass the small bathroom closet and peek in. The water pipe has burst from the sink and is leaking on a bunch of towels and toiletries that have been thrown to the ground in a huge pile that blocks most of the way in. A faint sewer smell coming from the toilet buried somewhere in that mess keeps you from spending too much time there.
+
+As you step into the bedroom, you see that the mattress has been slashed and clothes and picture frames have all been torn and smashed. You look for anything that might give you a clue to what happened to Kylie or where she might be, but you see nothing. You’re about to turn to leave when you spot a small Polaroid peeking out from below the folding closet door that has been torn off its hinges.
+
+You pick up the picture and examine it curiously. It is a picture of an old abandoned barn surrounded by elm trees. But what causes you to gasp is that the tail end of a dark gray sports car can be seen peeking out from behind the barn doors. The license plate can be clearly seen. New Jersey plates, number G62012. It was the car from the school parking lot!
+
+You put the picture in your back pocket, thinking it’s too big to be a coincidence. As you go to the front of the trailer, you see Charlie holding up another Polaroid. “Look,” he says, “Kylie.”
+
+The photograph is of Kylie Addams, clearly showing her long blond hair, bright blue eyes, and pearly white teeth. She is smiling broadly and sweetly into the camera while holding onto Nyx with one arm and taking the picture with the other. Nyx has a scraggly beard and is wearing a beanie. The expression on his face looks overwhelmed, but the beginnings of a smile are also present.
+
+“So, what were they?” you ask, “Friends? Lovers? Dealer and customer?”
+
+Charlie shrugs, and you hear Zack give a short whistle blast. “Come out, quick, Nyx is coming!”
+
+You put the picture of Kylie into your back pocket and rush out the door behind Charlie. You file in next to Zack as a small SUV skids to a halt in front of you, gravel flinging in every direction.
+
+Nyx steps out of the vehicle aggressively and pulls out a gun, and immediately begins to point it at Zack and Charlie. “Who the hell are you and what are you doing here?” he demands angrily.
+
+“Whoa, whoa, whoa!” urges Zack, raising his hands, “Easy there! The Pezzinator sent me.”
+
+“Aw, the Pez?” Nyx says in a disgusted tone, “He knows better than to send squares here to my place! Then he notices the trailer door that doesn’t quite close properly. “What the f--!” he trails off, “You broke into my trailer!” Rage twists his features, and he stalks towards Zack, pushing the gun into his chest. “Start talking! Now!”
+
+“Easy, easy,” Zack says in a gentle tone, backing up a pace or two. “We didn’t break in, I swear!”
+
+“Liar!” shouts Nyx, tilting the gun forward.
+
+What do you do?
+
+*choice
+  #Mention Kylie’s name.
+    *goto_scene section67
+  #Say we’re here to help.
+    *goto_scene section126

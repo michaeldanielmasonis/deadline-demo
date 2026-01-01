@@ -1,0 +1,8 @@
+*comment section61
+
+"Like you care!" you snarl with some venom and slam the car door shut. You feel a little bit guilty at the hurt expression on your mother’s face, but you are too angry to let it bother you. You stalk stiffly away from the drop-off zone and through the wide double doors of the school.
+
+*set trust_mom -1
+*set cool -2
+
+*goto_scene section10

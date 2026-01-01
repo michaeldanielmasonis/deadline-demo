@@ -1,0 +1,33 @@
+*comment section132
+
+The glow from the monitors paints Toby's face in harsh blue light, his smirk already forming before you even speak.
+
+You take a step closer, voice quieter now. "This isn't about me. It's not about popularity, or the paper. Kylie is missing. She could be hurt — or worse. And that car, that Porsche… it might be the only lead we have left."
+
+For once, the room doesn't laugh. The whir of cooling fans fills the silence. One of the Squad members looks away, chewing his lip.
+
+Toby's smirk flickers, but only for a heartbeat. He leans back, arms crossed again. "You really think throwing a guilt trip is going to work on us?"
+
+Your chest tightens, but you don't look away. "I think you care more than you want people to believe."
+
+The silence stretches. Finally, Toby sighs, spinning back toward his monitor. "Fine. But don't think this means we're your heroes. We'll trace your plate. Just… don't try that heartstring stuff again."
+
+The keys clack rapidly as the code starts scrolling, the sound sharper than his words.
+
+Charlie leans in close, whispering, "You got through to them. Sort of."
+
+You thank Toby and his friends and leave the corner of the lunchroom. You and Charlie hook up with the rest of your friends and catch everybody up on what has happened.
+
+You find out that Abbey was able to get away scot-free with the security guard by flirting a little and pretending to be looking for a lost earring.
+
+But as the day drags on, you keep looking at your cell phone and willing it to ring. Charlie had assured you that it would only take a couple of hours for the Geek Squad to get the information and get back to you. "Come on, guys," you think, "call me!"
+
+As you think about Kylie and Nyx and drug dealers, you suddenly remember you haven't gotten an official statement from the Delinquents clique yet. You wonder if it's worth it. Finding Kylie seems more important than the article at this point, but your journalistic integrity is nagging at the corners of your mind.
+
+What do you do?
+
+*choice
+  #Find the Delinquents and get their perspective on the article.
+    *goto_scene section171
+  #Leave them alone and focus on writing the article and finding Kylie.
+    *goto_scene section172

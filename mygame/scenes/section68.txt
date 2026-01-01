@@ -1,0 +1,19 @@
+*comment section68
+
+“Nah,” you say. “I don’t think so. The bell is about to ring, and I don’t have a good enough reason for talking to him. Maybe next time. Besides, I’m good enough with you and Charlie by my side.”
+
+Charlie smiles, beaming with pride.
+
+But Abbey shakes her head. “You are such a chicken,” she says. “It’s too bad, it might have been true love. Now you’ll never know.”
+
+“Whatever,” you say, blushing.
+
+Just then, the bell rings, and as you get ready to leave for class, you look up and see Zack staring at you from his spot under the oak. You give him a hesitant smile and say goodbye to your friends.
+
+As you walk toward the school, a thought hits you: if Zack doesn’t have any friends, maybe it would have been good to at least try to befriend him.
+
+“Next time,” you tell yourself.
+
+*set trust_charlie +1
+*set cool -1
+*goto_scene section83

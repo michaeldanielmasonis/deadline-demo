@@ -1,0 +1,39 @@
+*comment section112
+
+“Please?” you ask one more time. “You guys are my best friends. I just need some perspective for the article.”
+
+Abbey groans, tipping her head back against the locker. Her campaign button for junior class president gleams under the fluorescent light. “Seriously? I work my butt off in student council, and you’re still saying I’m a Blah?”
+
+Charlie laughs, though it comes out more nervous than amused. He pushes his glasses higher, the lenses flashing. “Better than being half-Geek, half-nothing, like me. At least you’re prez. I’m just… filler.”
+
+You raise your pen, trying not to show how much their reactions sting. “I’m not trying to insult anyone. I just want to know what the label means.”
+
+Abbey crosses her arms. “Okay, fine,” she says. “It means people see me as invisible if I’m not rich enough to hang with the Glitterati. Doesn’t matter if I plan fundraisers or run assemblies. If you don’t sparkle, you don’t count.”
+
+Charlie shrugs. “I dunno. Sometimes being in the background is nice. Nobody expects you to win Homecoming or break a track record. You get to coast. Less pressure.”
+
+Abbey shoots him a look. “Less pressure? Try being ignored every time you open your mouth in class. Or working twice as hard just to get noticed.”
+
+Charlie grins faintly. “Sure, but if you screw up? Nobody remembers either. That’s the perk.”
+
+Their words bounce back and forth, like they’ve argued about this before.
+
+You scribble notes furiously, your pen scratching against the page. “So… is being a Blah good or bad?”
+
+Abbey exhales. “It’s not fair. We’re more than the label, but we don’t get to choose what people see.”
+
+Charlie tilts his head. “Maybe it’s both. A curse when you want the spotlight. A blessing when you don’t.”
+
+The hallway noise swells around you—laughter, slamming lockers, someone calling down the hall—but in your notebook, their words land heavy.
+
+“Thank you guys,” you say as you put away your notebook. “You guys are the best!”
+
+Your friends give supportive, but somehow sad smiles, and wave goodbye as they leave for their classes.
+
+*if interviewed_blahs = false
+  *set interviewed_blahs true
+  *set interviews interviews +1
+  *achieve blahs_interview
+
+
+*goto_scene section50
