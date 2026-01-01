@@ -1,8 +1,0 @@
-*comment section125
-
-Still reeling from the revelation about Jonas and Mackenzie, you walk out of the gym and head towards the parking lot. You wonder what this will mean for Kylie. You can't wait to tell Zack everything you've learned.
-
-*if talked_to_garcia
-  *goto_scene section46
-*else
-  *goto_scene section51

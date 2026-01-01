@@ -1,5 +1,0 @@
-*comment section17
-
-You tighten your lips and give a slight shrug of your shoulders in reply. Then, without saying a word, you gently close the door and walk quickly away from the drop zone, refusing to look at your mom’s concerned expression. “This totally sucks!” you think as you enter the wide double doors of the school.
-
-*goto_scene section10

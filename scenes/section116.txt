@@ -1,9 +1,0 @@
-*comment section116
-
-You hang up your phone slowly, staring at the darkened screen.
-
-Your mom means well. She always does. And deep down, you know she’s scared—for you, for Kylie, for everything that feels like it’s spinning out of control.
-
-You tuck your phone away and take a steadying breath. There’s still work to do.
-
-*goto_scene section8

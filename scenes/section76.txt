@@ -1,9 +1,0 @@
-*comment section76
-
-The pickup leaps forward just as another shot is fired, and the bullet passes by harmlessly where your head had been a moment before. Turning the steering wheel to avoid trees and shrubs, you move the truck back onto the driveway and press hard on the accelerator.
-
-You grin in triumph as you shift into second and hear Ms. Chase’s curses fall quickly behind you. You thank God for Zack’s training as you quickly turn onto the highway and speed towards town.
-
-*set cool +1
-
-*goto_scene section79
