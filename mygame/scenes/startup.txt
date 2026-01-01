@@ -271,9 +271,6 @@
 *comment ACHIEVEMENTS
 *comment =====================================
 
-[ALL YOUR *achievement BLOCKS STAY EXACTLY AS THEY ARE — NO CHANGES]
-
-
 *comment =====================================
 *comment CONTENT WARNING
 *comment =====================================
