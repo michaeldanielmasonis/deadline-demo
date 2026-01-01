@@ -266,10 +266,119 @@
 *create deaths 0
 *create restarts 0
 
-
 *comment =====================================
 *comment ACHIEVEMENTS
 *comment =====================================
+
+*achievement classic_narcissist visible 1 "Classic Narcissist"
+  *description Finish the story with a very low Cool Score. You're a good person, but only by accident.
+
+*achievement antihero visible 2 "Antihero"
+  *description Finish with a low-to-middling Cool Score. You manage to do the right thing despite serious flaws.
+
+*achievement moral_milquetoast visible 3 "Moral Milquetoast"
+  *description Finish with a modest Cool Score. You don't have a strong moral compass, but you net positive.
+
+*achievement average_jane visible 4 "Average Jane"
+  *description Finish with a solid Cool Score. You are a decent person, most of the time.
+
+*achievement classic_heroine visible 5 "Classic Heroine"
+  *description Finish with a high Cool Score. You have all the qualities of a classic good-guy protagonist.
+
+*achievement white_knight visible 6 "White Knight"
+  *description Finish with a very high Cool Score. Your armor is so shiny from your goodness that bad guys go blind.
+
+*achievement saint_jessica visible 7 "Saint Jessica"
+  *description Finish with an exceptional Cool Score. The world isn’t worthy of you. But thank God you’re here.
+
+
+*comment --- Interview Count Achievements ---
+
+*achievement amateur_investigator visible 5 "Amateur Hour"
+  *description Finish with 3 or fewer interviews completed.
+
+*achievement aspiring_investigator visible 10 "Aspiring Investigator"
+  *description Finish with 4 interviews completed.
+
+*achievement super_sleuth visible 15 "Super Sleuth"
+  *description Finish with all 5 interviews completed.
+
+
+*comment --- Trust Achievements ---
+
+*achievement moms_favorite visible 5 "Mom’s Favorite"
+  *description Reach maximum trust with Mom.
+
+*achievement best_bud_zack visible 5 "Best Bud Zack"
+  *description Reach maximum trust with Zack.
+
+*achievement charlies_champion visible 5 "Charlie’s Champion"
+  *description Reach maximum trust with Charlie.
+
+*achievement detectives_apprentice visible 10 "Detective’s Apprentice"
+  *description Earn Detective Garcia’s full trust.
+
+
+*comment --- Survival / Meta Achievements ---
+
+*achievement first_blood visible 5 "First Blood"
+  *description Die once in any playthrough.
+
+*achievement nine_lives visible 10 "Nine Lives"
+  *description Die at least three times across all playthroughs.
+
+*achievement unstoppable visible 10 "Unstoppable"
+  *description Restart the story at least ten times.
+
+
+*comment --- Narrative Path Achievements ---
+
+*achievement true_journalist visible 15 "True Journalist"
+  *description Unlock and complete the Cliques article branch.
+
+*achievement hero_ending visible 20 "Hero Ending"
+  *description Save both Kylie and Nyx.
+
+*achievement tragedy_ending visible 10 "Tragic Ending"
+  *description Finish a run where one or more of your close friends die.
+
+*achievement worst_ending visible 5 "Worst Ending"
+  *description You don't save Kylie and you get kicked from the Puma Post.
+
+*achievement canon_ending visible 20 "Canon Ending"
+  *description Kylie and Nyx die, but Ms. Chase goes to jail and their legacy lives on.
+
+*achievement vampire_cowboy_fangirl visible 10 "Vampire Cowboy Fangirl"
+  *description Zack kisses you, and you absolutely do not mind.
+
+*achievement girl_next_door visible 10 "The Girl Next Door"
+  *description You kissed your friend and you liked it.
+
+*achievement walk_on_the_darkside visible 10 "Walk on the Dark Side"
+  *description Dress like a Goth queen for a day. What could go wrong?
+
+*achievement gods_angel visible 10 "God’s Angel"
+  *description Uncover Kylie and Nyx's murderer and bring them to justice.
+
+*achievement exonerator visible 10 "Exonerator"
+  *description Get Jonas to publicly confess his crimes and clear Kylie's name.
+
+*comment --- Interview Path Achievements ---
+
+*achievement geek_squad_interview visible 5 "Geek Squad Interview"
+  *description Able to speak Geek.
+
+*achievement death_eaters_interview visible 5 "Death Eaters Interview"
+  *description Survive an interview with the Death Eaters.
+
+*achievement delinquents_interview visible 5 "Delinquents Interview"
+  *description Get the Delinquents on record.
+
+*achievement blahs_interview visible 5 "Blahs Interview"
+  *description Give the Blahs a voice.
+
+*achievement glitterati_interview visible 5 "Glitterati Interview"
+  *description Crack the Glitterati.
 
 *comment =====================================
 *comment CONTENT WARNING
